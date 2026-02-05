@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { Button } from "@/components/ui/button";
 
 export default function Home() {
@@ -32,8 +33,11 @@ export default function Home() {
             <p className="font-content text-foreground text-lg">
               AI powered chat for instant legal guidance
             </p>
-            <Button className="mt-auto bg-foreground text-pastel-teal hover:bg-foreground/80">
-              Start Chatting
+            <Button
+              asChild
+              className="mt-auto bg-foreground text-pastel-teal hover:bg-foreground/80"
+            >
+              <Link href="/chat">Start Chatting</Link>
             </Button>
           </div>
           <div className="flex h-55 w-full flex-col items-start justify-start gap-2 rounded-md bg-pastel-green p-4 shadow-lg md:w-68.25">
@@ -41,8 +45,12 @@ export default function Home() {
             <p className="font-content text-foreground text-lg">
               Stay updated with the latest legal news updates
             </p>
-            <Button className="mt-auto bg-foreground text-pastel-green hover:bg-foreground/80">
-              Read More
+
+            <Button
+              asChild
+              className="mt-auto bg-foreground text-pastel-green hover:bg-foreground/80"
+            >
+              <Link href="/news">Read More</Link>
             </Button>
           </div>
           <div className="flex h-55 w-full flex-col items-start justify-start gap-2 rounded-md bg-pastel-mauve p-4 shadow-lg md:w-68.25">
@@ -53,7 +61,7 @@ export default function Home() {
               AI powered chat for instant legal guidance
             </p>
             <Button className="mt-auto bg-foreground text-pastel-mauve hover:bg-foreground/80">
-              Read More
+              <Link href="/news?q=rg+kor+case">Read More</Link>
             </Button>
           </div>
           <div className="flex h-55 w-full flex-col items-start justify-start gap-2 rounded-md bg-pastel-lavender p-4 shadow-lg md:w-68.25">
