@@ -1,14 +1,50 @@
 "use client";
+type Messages = {
+  message: string;
+  is_user: boolean;
+  date: Date;
+};
+
 import Image from "next/image";
 import { useRouter } from "next/navigation";
-import { useState } from "react";
+import Pocketbase from "pocketbase";
+import { useEffect, useState } from "react";
 import { SendIcon } from "@/components/icons/send";
 import { SmartToyIcon } from "@/components/icons/smart-toy";
-import type { MessagesRecord } from "@/lib/pocketbase-types";
 import { cn } from "@/lib/utils";
-import { SubmitAIMessageAction } from "./submit-ai.action";
 import { SubmitMessageAction } from "./submit-message.action";
-export function ChatUI({ messages }: { messages: MessagesRecord[] }) {
+
+const pb = new Pocketbase("https://db-clarity.arinji.com");
+export function ChatUI() {
+  const [messages, setMessages] = useState<Messages[]>([
+    {
+      message:
+        "Welcome to Suraksha Sakhi, an AI-powered legal assistant. How can I help you today?",
+      is_user: false,
+      date: new Date(),
+    },
+  ]);
+  useEffect(() => {
+    pb.collection("chatbot_test").subscribe("*", (doc) => {
+      console.log(doc);
+      if (doc.action === "update") {
+        if (doc.record.status === "done") {
+          setMessages((prev) => [
+            ...prev,
+            {
+              message: doc.record.result,
+              is_user: false,
+              date: new Date(),
+            },
+          ]);
+        }
+      }
+    });
+
+    return () => {
+      pb.collection("chatbot_test").unsubscribe("*");
+    };
+  }, []);
   const [typedMessage, setTypedMessage] = useState("");
   const router = useRouter();
 
@@ -23,10 +59,10 @@ export function ChatUI({ messages }: { messages: MessagesRecord[] }) {
           <div className="mx-auto flex w-full max-w-4xl flex-col gap-8">
             {messages.map((message) => (
               <ChatMessage
-                key={message.id}
-                message={message.content!}
-                isUser={message.is_user_message!}
-                date={new Date(message.created)}
+                key={Math.random()}
+                message={message.message!}
+                isUser={message.is_user!}
+                date={new Date(message.date)}
               />
             ))}
           </div>
@@ -43,10 +79,16 @@ export function ChatUI({ messages }: { messages: MessagesRecord[] }) {
             <button
               type="button"
               onClick={async () => {
-                const aiRes = await SubmitMessageAction(typedMessage);
+                await SubmitMessageAction(typedMessage);
+                setMessages((prev) => [
+                  ...prev,
+                  {
+                    message: typedMessage,
+                    is_user: true,
+                    date: new Date(),
+                  },
+                ]);
                 setTypedMessage("");
-                await SubmitAIMessageAction(aiRes.message);
-                router.refresh();
               }}
               className="flex size-9 items-center justify-center rounded-md bg-background"
             >

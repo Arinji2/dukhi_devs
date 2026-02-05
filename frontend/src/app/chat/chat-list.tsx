@@ -1,8 +1,8 @@
+import Link from "next/link";
 import { HomeIcon } from "@/components/icons/home";
 import { Button } from "@/components/ui/button";
 import { getAdminPb } from "@/lib/pb";
 import { cn } from "@/lib/utils";
-import Link from "next/link";
 
 export async function ChatList() {
   const pbAdmin = await getAdminPb();
@@ -11,10 +11,7 @@ export async function ChatList() {
     <div className="flex h-full w-[40%] flex-col items-center justify-start gap-7 overflow-y-auto border-border border-r bg-card px-4 py-6">
       <div className="flex h-fit w-full flex-col items-center justify-start gap-3">
         <Button asChild className="flex w-full bg-pastel-blue">
-          <Link
-            href="/"
-            className="flex-row items-center gap-1  justify-center   "
-          >
+          <Link href="/" className="flex-row items-center justify-center gap-1">
             <HomeIcon className="size-5 text-foreground" />
             <p className="font-content font-medium text-foreground">Home</p>
           </Link>
