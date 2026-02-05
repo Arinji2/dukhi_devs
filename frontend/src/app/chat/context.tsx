@@ -1,3 +1,5 @@
+import { PulseIcon } from "@/components/icons/pulse";
+
 <div className="flex h-full w-[40%] flex-col gap-5 bg-background px-4 py-6">
   <div className="flex h-fit w-full flex-col items-start justify-start gap-1 rounded-sm bg-card p-4">
     <div className="flex h-fit w-full flex-row items-center justify-start gap-1">

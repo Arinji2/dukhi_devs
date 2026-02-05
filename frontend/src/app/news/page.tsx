@@ -8,10 +8,11 @@ import { NewsSearch } from "./news-search";
 export default async function NewsPage({
   searchParams,
 }: {
-  searchParams: Promise<{ q?: string }>;
+  searchParams: Promise<{ q?: string; isCase?: string }>;
 }) {
-  const { q } = await searchParams;
+  const { q, isCase } = await searchParams;
   const query = q ?? "indian legal news";
+  const isCaseQuery = isCase ?? "false";
   const data = await getNews(query);
 
   return (
@@ -24,17 +25,19 @@ export default async function NewsPage({
 
         <div className="flex h-full flex-col items-center justify-center gap-4">
           <h1 className="font-title text-6xl text-pastel-teal">
-            LEGAL NEWS FEED
+            {isCase === "true" ? "CASE UPDATES" : "LEGAL NEWS"}
           </h1>
 
           <p className="w-[25%] text-center text-foreground">
-            Search for all news related to indian legal cases and updates
+            {isCase === "true"
+              ? "Track realtime updates on real cases"
+              : "Search for all news related to indian legal cases and updates"}
           </p>
 
           <NewsSearch initialQuery={query} />
         </div>
       </div>
-      <div className="w-full flex flex-col items-center justify-center">
+      <div className="flex w-full flex-col items-center justify-center">
         <Button className="w-fit" asChild>
           <Link href="/">Back to Home</Link>
         </Button>

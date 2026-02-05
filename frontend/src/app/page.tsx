@@ -61,7 +61,7 @@ export default function Home() {
               AI powered chat for instant legal guidance
             </p>
             <Button className="mt-auto bg-foreground text-pastel-mauve hover:bg-foreground/80">
-              <Link href="/news?q=rg+kor+case">Read More</Link>
+              <Link href="/news?q=rg+kor+case&isCase=true">Read More</Link>
             </Button>
           </div>
           <div className="flex h-55 w-full flex-col items-start justify-start gap-2 rounded-md bg-pastel-lavender p-4 shadow-lg md:w-68.25">
@@ -71,8 +71,11 @@ export default function Home() {
             <p className="font-content text-foreground text-lg">
               Join movements and digitally sign to show your support
             </p>
-            <Button className="mt-auto bg-foreground text-pastel-lavender hover:bg-foreground/80">
-              Show Support
+            <Button
+              asChild
+              className="mt-auto bg-foreground text-pastel-lavender hover:bg-foreground/80"
+            >
+              <Link href="/petitions">Show Support</Link>
             </Button>
           </div>
         </div>

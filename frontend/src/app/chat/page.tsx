@@ -1,7 +1,6 @@
 export const dynamic = "force-dynamic";
 export const CHAT_ID = "ddvdncakqfa8apm";
 
-import type { MessagesRecord } from "@/lib/pocketbase-types";
 import { ChatUI } from "./chat";
 import { ChatList } from "./chat-list";
 

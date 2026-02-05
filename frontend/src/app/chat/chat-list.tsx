@@ -1,12 +1,18 @@
 import Link from "next/link";
 import { HomeIcon } from "@/components/icons/home";
 import { Button } from "@/components/ui/button";
-import { getAdminPb } from "@/lib/pb";
+import type { ChatsRecord } from "@/lib/pocketbase-types";
 import { cn } from "@/lib/utils";
 
 export async function ChatList() {
-  const pbAdmin = await getAdminPb();
-  const chats = await pbAdmin.collection("chats").getFullList();
+  const chats: ChatsRecord[] = [
+    {
+      id: "ddvdncakqfa8apm",
+      name: "New Chat",
+      created: "2023-05-01T00:00:00.000Z",
+      updated: "2023-05-01T00:00:00.000Z",
+    },
+  ];
   return (
     <div className="flex h-full w-[40%] flex-col items-center justify-start gap-7 overflow-y-auto border-border border-r bg-card px-4 py-6">
       <div className="flex h-fit w-full flex-col items-center justify-start gap-3">
