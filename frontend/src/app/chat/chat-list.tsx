@@ -1,78 +1,41 @@
-import { AddIcon } from "@/components/icons/add";
 import { HomeIcon } from "@/components/icons/home";
 import { Button } from "@/components/ui/button";
+import { getAdminPb } from "@/lib/pb";
 import { cn } from "@/lib/utils";
+import Link from "next/link";
 
-export function ChatList() {
+export async function ChatList() {
+  const pbAdmin = await getAdminPb();
+  const chats = await pbAdmin.collection("chats").getFullList();
   return (
     <div className="flex h-full w-[40%] flex-col items-center justify-start gap-7 overflow-y-auto border-border border-r bg-card px-4 py-6">
       <div className="flex h-fit w-full flex-col items-center justify-start gap-3">
-        <Button className="flex w-full flex-row items-center justify-center gap-1 bg-pastel-blue">
-          <HomeIcon className="size-5 text-foreground" />
-          <p className="font-content font-medium text-foreground">Home</p>
+        <Button asChild className="flex w-full bg-pastel-blue">
+          <Link
+            href="/"
+            className="flex-row items-center gap-1  justify-center   "
+          >
+            <HomeIcon className="size-5 text-foreground" />
+            <p className="font-content font-medium text-foreground">Home</p>
+          </Link>
         </Button>
-        <Button className="flex w-full flex-row items-center justify-center gap-1 bg-pastel-lavender">
-          <AddIcon className="size-5 text-foreground" />
-          <p className="font-content font-medium text-foreground">New Chat</p>
-        </Button>
+        {/* <Button className="flex w-full flex-row items-center justify-center gap-1 bg-pastel-lavender"> */}
+        {/*   <AddIcon className="size-5 text-foreground" /> */}
+        {/*   <p className="font-content font-medium text-foreground">New Chat</p> */}
+        {/* </Button> */}
       </div>
       <div className="flex h-fit w-full flex-col items-start justify-start gap-3">
         <p className="font-content font-semibold text-gray-500 text-xs tracking-tighter">
           RECENTS
         </p>
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={true}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
-
-        <ChatCard
-          name="Workplace Harrasment Query"
-          date={new Date()}
-          active={false}
-        />
+        {chats.map((chat) => (
+          <ChatCard
+            key={chat.id}
+            name={chat.name!}
+            date={new Date(chat.created)}
+            active={true}
+          />
+        ))}
       </div>
     </div>
   );

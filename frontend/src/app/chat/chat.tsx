@@ -1,37 +1,59 @@
+"use client";
+import Image from "next/image";
+import { useRouter } from "next/navigation";
+import { useState } from "react";
 import { SendIcon } from "@/components/icons/send";
 import { SmartToyIcon } from "@/components/icons/smart-toy";
+import type { MessagesRecord } from "@/lib/pocketbase-types";
 import { cn } from "@/lib/utils";
-export function ChatUI() {
-  return (
-    <div className="relative flex h-full w-full flex-col items-center">
-      <div className="fixed bottom-6 z-20 flex h-16 w-[60%] flex-row items-center justify-between rounded-md border border-border bg-card px-4 py-4 shadow-lg">
-        <textarea
-          className="h-full w-full resize-none border-transparent font-content text-white outline-none"
-          placeholder="Type your message here..."
-        />
-        <button
-          type="button"
-          className="flex size-9 flex-col items-center justify-center rounded-md bg-background"
-        >
-          <SendIcon className="size-4 text-pastel-green" />
-        </button>
-      </div>
-      <div className="before:-z-10 relative isolate flex h-full w-full flex-col items-center justify-start gap-8 px-4 py-6 before:pointer-events-none before:absolute before:inset-0 before:bg-[url('/chat.png')] before:bg-size-[70%] before:bg-repeat before:opacity-3 before:content-['']">
-        <ChatMessage
-          message="Hello, I am your Suraksha Setu Legal Assistant. Briefly describe your  situation, and I will guide you through relevant laws and rights."
-          isUser={false}
-          date={new Date()}
-        />
+import { SubmitAIMessageAction } from "./submit-ai.action";
+import { SubmitMessageAction } from "./submit-message.action";
+export function ChatUI({ messages }: { messages: MessagesRecord[] }) {
+  const [typedMessage, setTypedMessage] = useState("");
+  const router = useRouter();
 
-        <ChatMessage
-          message="
-                  I am experiencing verbal harassment from my manager at the
-                  office. He constantly makes demeaning comments about my
-                  appearance in front of the team.
-"
-          isUser={true}
-          date={new Date()}
-        />
+  return (
+    <div className="relative h-screen w-full overflow-hidden">
+      <div className="pointer-events-none absolute inset-0 z-0">
+        <div className="h-full w-full bg-[url('/chat.png')] bg-center bg-cover bg-no-repeat opacity-5" />
+      </div>
+
+      <div className="relative z-10 flex h-full w-full flex-col items-center">
+        <div className="w-full flex-1 overflow-y-auto px-4 py-6">
+          <div className="mx-auto flex w-full max-w-4xl flex-col gap-8">
+            {messages.map((message) => (
+              <ChatMessage
+                key={message.id}
+                message={message.content!}
+                isUser={message.is_user_message!}
+                date={new Date(message.created)}
+              />
+            ))}
+          </div>
+        </div>
+
+        <div className="w-full border-border border-t bg-card px-4 py-3">
+          <div className="mx-auto flex h-16 w-full max-w-4xl items-center gap-3 rounded-md">
+            <textarea
+              value={typedMessage}
+              onChange={(e) => setTypedMessage(e.target.value)}
+              className="h-full w-full resize-none bg-transparent text-white outline-none"
+              placeholder="Type your message here..."
+            />
+            <button
+              type="button"
+              onClick={async () => {
+                const aiRes = await SubmitMessageAction(typedMessage);
+                setTypedMessage("");
+                await SubmitAIMessageAction(aiRes.message);
+                router.refresh();
+              }}
+              className="flex size-9 items-center justify-center rounded-md bg-background"
+            >
+              <SendIcon className="size-4 text-pastel-green" />
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   );
@@ -53,6 +75,8 @@ function ChatMessage({
     month: "short",
     year: "numeric",
   }).format(date);
+
+  message = message.replaceAll("\n", "");
   return (
     <div
       className={cn(
@@ -63,7 +87,15 @@ function ChatMessage({
       )}
     >
       {isUser ? (
-        <div className="flex size-8 flex-col items-center justify-center rounded-full bg-pastel-mauve"></div>
+        <div className="flex size-8 flex-col items-center justify-center overflow-hidden rounded-full">
+          <Image
+            src="/avatar.png"
+            alt="avatar"
+            width={40}
+            height={40}
+            className="rounded-full"
+          />
+        </div>
       ) : (
         <div className="flex size-8 flex-col items-center justify-center rounded-full bg-primary/40">
           <SmartToyIcon className="size-5 text-blue-500" />
