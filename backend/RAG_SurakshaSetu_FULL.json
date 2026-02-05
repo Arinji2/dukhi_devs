@@ -1,0 +1,2043 @@
+{
+  "metadata": {
+    "source": "RAG SurakshaSetu - Legal Protections Guide",
+    "total_laws": 62,
+    "format_version": "2.0"
+  },
+  "laws": [
+    {
+      "law_number": 4,
+      "title": "Rape (BNS Section 63)",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 63.",
+      "description": "? Defines rape as sexual intercourse committed by a man with a woman \nagainst\nher\nwill,\nwithout\nher\nconsent,\nor\nwith\nconsent\nobtained\nby\nfear\nof\ndeath\nor\nhurt.",
+      "protection_orders": "? The court can order medical treatment for the victim, police \nprotection\nfor\nthe\nvictim\nand\nwitnesses,\nand\ninterim\ncompensation.",
+      "filing_process": [
+        "Call 112 or go to the nearest police station to file an FIR (Zero FIR allowed).",
+        "Police send the victim for a medical examination (within 24 hours).",
+        "Statement recorded by a Magistrate under Section 183 BNSS (formerly 164 CrPC).",
+        "Police complete investigation and file a charge sheet.",
+        "Trial conducted in a Court of Session."
+      ],
+      "punishments": "Rigorous imprisonment of not less than 10 years, which may extend to life \nimprisonment,\nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Mukesh & Anr v. State for NCT of Delhi (Nirbhaya Case)",
+          "background": "A paramedical student was brutally gang-raped and assaulted on a moving bus in Delhi.",
+          "action_taken": "Massive public protests led to expedited legal reforms.",
+          "court_order": "Supreme Court upheld the death penalty for the convicts due to the \"rarest of rare\" nature of the crime.",
+          "outcome": "Led to stricter rape laws (Criminal Law Amendment Act, 2013), now reflected in BNS 63."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State of Punjab v. Gurmit Singh",
+          "background": "A young girl was abducted and raped; the defense questioned her character and testimony.",
+          "action_taken": "Case appealed to the Supreme Court regarding the weight of a victim's testimony.",
+          "court_order": "Ruled that the testimony of the victim is sufficient for conviction if reliable, without need for corroboration.",
+          "outcome": "Established that the victim's word holds high evidentiary value in rape cases."
+        }
+      ],
+      "who_can_file": "? The survivor, her relatives, or any person aware of the incident can file the \ncomplaint."
+    },
+    {
+      "law_number": 5,
+      "title": "Sexual Intercourse by Husband Upon His Wife During Separation (BNS",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 67.",
+      "description": "? Criminalizes sexual intercourse by a man with his wife without her \nconsent\nwhen\nthey\nare\nliving\nseparately,\nwhether\nunder\na\ndecree\nof\nseparation\nor\nby\ncustom.",
+      "protection_orders": "? The court may grant restraining orders preventing the husband \nfrom\nentering\nthe\nwife's\nresidence\nor\ncontacting\nher.",
+      "filing_process": [
+        "File a complaint with the police providing proof of separation (decree or custom).",
+        "Police verify the separation status and record the statement.",
+        "Medical examination of the victim.",
+        "Investigation and filing of the charge sheet."
+      ],
+      "punishments": "Imprisonment of either description for a term generally between 2 to 7 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Nimbbichand v. State",
+          "background": "The husband was accused of raping his wife while they were living apart due to disputes.",
+          "action_taken": "The court examined the legal status of their separation.",
+          "court_order": "The court emphasized that a legal or customary separation changes the nature of marital consent.",
+          "outcome": "Reinforced that separation decrees legally protect a wife's bodily autonomy from her husband."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Independent Thought v. Union of India",
+          "background": "A PIL challenged the marital rape exception regarding minor wives.",
+          "action_taken": "Supreme Court reviewed the rights of wives in various separation and age contexts.",
+          "court_order": "While focusing on minors, the court reiterated that the \"sanctity of marriage\" does not strip a woman of autonomy, especially when separated.",
+          "outcome": "Strengthened the legal interpretation that non-consensual sex during separation is a punishable offense."
+        }
+      ],
+      "who_can_file": "? The aggrieved wife."
+    },
+    {
+      "law_number": 6,
+      "title": "Sexual Intercourse by a Person in Authority (BNS Section 68)",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 68.",
+      "description": "? Punishes persons in authority (police, public servants, jail/remand home \nstaff,\nhospital\nstaff)\nwho\nabuse\ntheir\nposition\nto\ninduce\nor\nseduce\na\nwoman\nunder\ntheir\ncharge\ninto\nsexual\nintercourse.",
+      "protection_orders": "? Immediate transfer or suspension of the accused; transfer of \nthe\nvictim\nto\na\ndifferent\nfacility\nfor\nsafety.",
+      "filing_process": [
+        "Report the incident to a senior officer, Magistrate, or women's helpline.",
+        "FIR registered specifically noting the \"custodial\" nature of the offense.",
+        "Magistrate records the statement immediately to prevent intimidation.",
+        "Inquiry initiated alongside criminal investigation."
+      ],
+      "punishments": "Rigorous imprisonment of not less than 5 years, which may extend to 10 \nyears,\nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Tukaram v. State of Maharashtra (Mathura Case)",
+          "background": "A tribal girl was raped by two police constables inside a police station.",
+          "action_taken": "The Supreme Court initially acquitted the accused, citing lack of \"resistance.\"",
+          "court_order": "Public outrage led to legal amendments shifting the burden of proof in custodial rape.",
+          "outcome": "Established that in custodial rape (authority figures), consent is presumed absent if the victim states so."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State of Maharashtra v. Chandraprakash Kewalchand Jain",
+          "background": "An Assistant Commissioner of Police raped a woman he was investigating.",
+          "action_taken": "High Court convicted him; he appealed to the Supreme Court.",
+          "court_order": "SC upheld the conviction, stating that men in power have a higher duty of care and trust.",
+          "outcome": "Reinforced severe penalties for public servants abusing their power for sexual acts."
+        }
+      ],
+      "who_can_file": "? The victim, her legal guardian, or a witness to the abuse of power."
+    },
+    {
+      "law_number": 7,
+      "title": "Sexual Intercourse by Employing Deceitful Means (BNS Section 69)",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 69.",
+      "description": "? Criminalizes sexual intercourse obtained by \"deceitful means,\" such as \nmaking\na\nfalse\npromise\nof\nmarriage\nwith\nno\nintent\nto\nfulfill\nit,\nor\nsuppressing\none's\ntrue\nidentity.",
+      "protection_orders": "? Restraining orders against the accused; police protection if the \nvictim\nis\nthreatened\nfor\nreporting\nthe\ndeceit.",
+      "filing_process": [
+        "File an FIR submitting evidence of the deceit (messages, promise of marriage, proof of false identity).",
+        "Police investigate the \"intent\" of the accused at the time of the promise.",
+        "Statement recorded regarding how consent was obtained through fraud.",
+        "Charge sheet filed upon verifying the deceit."
+      ],
+      "punishments": "Imprisonment of either description which may extend to 10 years, and a fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Uday v. State of Karnataka",
+          "background": "Case involved a consensual relationship where the promise of marriage was broken due to caste issues.",
+          "action_taken": "Court had to determine if the promise was false from the beginning.",
+          "court_order": "Court ruled that a broken promise is not always \"deceit,\" there must be bad faith from the start.",
+          "outcome": "BNS 69 now specifically codifies \"false promise of employment or promotion, or marrying after suppressing identity\" to clarify this distinction."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Pramod Suryabhan Pawar v. State of Maharashtra",
+          "background": "Accused allegedly raped the victim by promising marriage but later married someone else.",
+          "action_taken": "FIR quashed by High Court; appealed to Supreme Court.",
+          "court_order": "SC distinguished between a \"breach of promise\" and a \"false promise\" given to secure consent.",
+          "outcome": "Laid the groundwork for BNS 69, which now explicitly penalizes the act of using deceit to gain sexual consent."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman."
+    },
+    {
+      "law_number": 8,
+      "title": "Gang Rape (BNS Section 70)",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 70.",
+      "description": "? Defines the offense where a woman is raped by one or more persons \nconstituting\na\ngroup\nor\nacting\nin\nfurtherance\nof\na\ncommon\nintention.",
+      "protection_orders": "? Witness protection scheme applicability, camera trial (private), \nand\ncompensation\norders.",
+      "filing_process": [
+        "Emergency call to police/ambulance.",
+        "FIR registered (mandatory); typically transferred to a specialized investigation team.",
+        "Forensic evidence collection is critical (medical kit).",
+        "Magistrate records statement.",
+        "Fast-track trial proceedings."
+      ],
+      "punishments": "Rigorous imprisonment for not less than 20 years, extending to life \nimprisonment\n(remainder\nof\nnatural\nlife),\nand\na\nfine\npaid\nto\nthe\nvictim.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Bilkis Bano v. State of Gujarat",
+          "background": "The victim was gang-raped and her family members killed during communal riots.",
+          "action_taken": "CBI took over the investigation; trial moved out of state for fairness.",
+          "court_order": "The Supreme Court upheld life imprisonment for the 11 convicts.",
+          "outcome": "Set a precedent for accountability in mass violence and gang rape cases."
+        },
+        {
+          "case_number": 2,
+          "case_name": "XYZ v. State of Madhya Pradesh",
+          "background": "A minor was gang-raped; the police delayed the FIR.",
+          "action_taken": "Court took cognizance of the delay and the brutality of the group crime.",
+          "court_order": "Emphasized that in gang rape, every member of the group is equally liable for the rape.",
+          "outcome": "Reaffirmed the \"common intention\" principle—all participants face the same severe penalty."
+        }
+      ],
+      "who_can_file": "? The victim, family members, or any concerned citizen. \n__PAGE_8__"
+    },
+    {
+      "law_number": 9,
+      "title": "Assault or use of criminal force to woman with intent to outrage her",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 74.",
+      "description": "? Punishes any assault or use of criminal force against a woman with the \nspecific\nintention\nof\noutraging\nher\nmodesty,\nor\nwith\nthe\nknowledge\nthat\nsuch\nan\nact\nis\nlikely\nto\ndo\nso.",
+      "protection_orders": "? Court can issue orders restraining the accused from \napproaching\nthe\nvictim\nand\nimpose\nstrict\nbail\nconditions\nto\nprevent\nintimidation.",
+      "filing_process": [
+        "Call 112 or visit the nearest police station.",
+        "File an FIR under BNS Section 74.",
+        "Provide details of the incident (time, place, nature of force used).",
+        "Police record statement under Section 180 BNSS.",
+        "Investigation and arrest of the accused."
+      ],
+      "punishments": "Imprisonment of either description for a term not less than 1 year but which \nmay\nextend\nto\n5\nyears,\nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Rupan Deol Bajaj v. K.P.S. Gill ● Background: A senior police officer slapped a female IAS officer on the posterior at a",
+          "background": "",
+          "action_taken": "Victim filed a case for outraging modesty; accused claimed it was trivial.",
+          "court_order": "Supreme Court ruled that \"modesty\" is a virtue attaching to a female owing to her sex.",
+          "outcome": "Established that even a single act of inappropriate physical contact constitutes outraging modesty."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State of Punjab v. Major Singh ● Background: Accused tampered with the clothes of a 7-month-old female child. ● Action Taken: Defense argued a baby cannot have \"modesty\" to be outraged. ● Court Order: Supreme Court ruled that modesty is an attribute of womanhood,",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Clarified that the victim's age or awareness does not bar a conviction for outraging modesty."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman or any person who witnessed the incident. \n__PAGE_9__"
+    },
+    {
+      "law_number": 10,
+      "title": "Sexual Harassment (BNS Section 75) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 75.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 75.",
+      "description": "? Criminalizes acts such as physical contact involving unwelcome and \nexplicit\nsexual\novertures,\ndemanding\nsexual\nfavors,\nshowing\npornography,\nor\nmaking\nsexually\ncolored\nremarks.",
+      "protection_orders": "? Restraining orders to stop harassment; workplace protections \nif\napplicable\n(transfer\nof\naccused).",
+      "filing_process": [
+        "File a written complaint or FIR at the police station.",
+        "Submit evidence (messages, emails, witness accounts).",
+        "Statement recorded by police.",
+        "For workplace incidents, a complaint can also be filed with the Internal Committee (IC)."
+      ],
+      "punishments": "● For physical contact, demands for favors, or showing pornography: Imprisonment up to 3 \nyears\nand\nfine.\n● For sexually colored remarks: Imprisonment up to 1 year and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Apparel Export Promotion Council v. A.K. Chopra ● Background: A superior officer repeatedly made sexual advances toward a female",
+          "background": "",
+          "action_taken": "Employee refused; officer retaliated. Case reached Supreme Court.",
+          "court_order": "SC upheld that physical contact is not necessary; unwelcome gestures/advances constitute harassment.",
+          "outcome": "Reinforced that \"unwelcome\" behavior is the key element of sexual harassment."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Priyadarshini Mattoo Case (Reference) ● Background: Persistent harassment and stalking led to the victim's murder. ● Action Taken: Highlighted the escalation ladder from harassment to grave crimes. ● Court Order: Courts have since treated initial reports of harassment",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Underscored the need to punish \"sexually colored remarks\" early to prevent escalation."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman. \n__PAGE_10__"
+    },
+    {
+      "law_number": 11,
+      "title": "Assault or use of criminal force to woman with intent to disrobe (BNS",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 76.",
+      "description": "? Specifically targets the act of assaulting or using criminal force on a \nwoman\nwith\nthe\nintent\nto\ndisrobe\n(strip)\nher\nor\ncompel\nher\nto\nbe\nnaked.",
+      "protection_orders": "? Immediate police protection; strict restraining orders \npreventing\nthe\naccused\nfrom\nentering\nthe\nvictim's\nlocality.",
+      "filing_process": [
+        "Immediate reporting to police (FIR is mandatory).",
+        "Medical examination if physical injury occurred during the assault.",
+        "Magistrate records statement under Section 183 BNSS.",
+        "Fast-track investigation due to the humiliating nature of the crime."
+      ],
+      "punishments": "Imprisonment of either description for a term not less than 3 years but which \nmay\nextend\nto\n7\nyears,\nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State of Maharashtra v. Unknown (Public Stripping Cases) ● Background: Incidents where women were stripped in public as a form of \"vigilante",
+          "background": "",
+          "action_taken": "Courts recognized this as distinct from simple assault or rape.",
+          "court_order": "Ruled that stripping a woman strikes at her essential dignity and requires specific, harsh punishment.",
+          "outcome": "Led to the creation of this specific section (formerly IPC 354B) to address disrobing."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Local Community Disputes (General Precedent) ● Background: In rural disputes, women were often targeted by disrobing to shame their",
+          "background": "",
+          "action_taken": "Police often filed simple assault charges.",
+          "court_order": "Directives issued to file under specific \"disrobing\" sections to ensure minimum 3-year sentencing.",
+          "outcome": "Ensures that such acts are treated as grave crimes against dignity, not just physical fights."
+        }
+      ],
+      "who_can_file": "? The victim, her relatives, or any witness. \n__PAGE_11__"
+    },
+    {
+      "law_number": 12,
+      "title": "Voyeurism (BNS Section 77) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 77.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 77.",
+      "description": "? Criminalizes watching or capturing images of a woman engaging in a \nprivate\nact\n(like\nchanging\nclothes\nor\nusing\na\nwashroom)\nwhere\nshe\nhas\nan\nexpectation\nof\nprivacy,\nor\ndisseminating\nsuch\nimages.",
+      "protection_orders": "? Orders to delete/destroy the captured content; injunctions \nagainst\nsharing\nthe\nimages\nonline.",
+      "filing_process": [
+        "File FIR immediately.",
+        "Hand over devices (phones/cameras) as evidence for forensic analysis.",
+        "Notify Cyber Cell if images were uploaded online.",
+        "Police request removal of content from social media platforms."
+      ],
+      "punishments": "● First conviction: Imprisonment from 1 to 3 years and fine. ● Subsequent conviction: Imprisonment from 3 to 7 years and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State v. Capturing of MMS ● Background: Accused secretly filmed a woman trying on clothes in a trial room. ● Action Taken: Victim noticed the camera and called the police. ● Court Order: Court held that a trial room is a place where \"expectation of privacy\" is",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Conviction for voyeurism secured; defined \"private act\" to include changing clothes."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Justice K.S. Puttaswamy (Retd.) v. Union of India (Right to Privacy) ● Background: Constitutional challenge regarding privacy rights. ● Action Taken: Supreme Court declared privacy a fundamental right. ● Court Order: This judgment bolsters voyeurism laws, asserting that bodily privacy is",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Strengthens the prosecution of voyeurism as a violation of fundamental rights."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman. \n__PAGE_12__"
+    },
+    {
+      "law_number": 13,
+      "title": "Stalking (BNS Section 78) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 78.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 78.",
+      "description": "? Punishes a man who follows, contacts, or attempts to contact a woman \nrepeatedly\ndespite\nher\nclear\nindication\nof\ndisinterest,\nor\nmonitors\nher\nuse\nof\nthe\ninternet/electronic\ncommunication.",
+      "protection_orders": "? Restraining orders prohibiting contact (physical or digital); \npolice\nwarnings\nto\nthe\nstalker.",
+      "filing_process": [
+        "Gather evidence (call logs, screenshots, messages).",
+        "File FIR (online or offline).",
+        "Statement regarding the \"clear indication of disinterest\" recorded.",
+        "Cyber Cell involvement if stalking is digital (cyberstalking)."
+      ],
+      "punishments": "● First conviction: Imprisonment up to 3 years and fine. ● Subsequent conviction: Imprisonment up to 5 years and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Santosh Kumar Singh v. State (Priyadarshini Mattoo Case) ● Background: Accused stalked the victim for years before killing her. Police initially",
+          "background": "",
+          "action_taken": "The tragedy highlighted the danger of ignoring obsessive stalking.",
+          "court_order": "While the case was for murder, it catalyzed the recognition of stalking as a predicate offense.",
+          "outcome": "Led to the specific criminalization of stalking (formerly IPC 354D, now BNS 78)."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Shri Kuldeep Singh v. State of Tamil Nadu ● Background: Accused sent repeated friend requests and messages despite being",
+          "background": "",
+          "action_taken": "Victim filed complaint for cyberstalking.",
+          "court_order": "Court ruled that \"virtual\" following is equal to physical following.",
+          "outcome": "Confirmed that monitoring a woman online constitutes stalking."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman. \n__PAGE_13__"
+    },
+    {
+      "law_number": 14,
+      "title": "Word, gesture or act intended to insult modesty of a woman (BNS",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 79.",
+      "description": "? Punishes anyone who utters any word, makes any sound or gesture, or \nexhibits\nany\nobject\nwith\nthe\nintention\nthat\nit\nbe\nheard\nor\nseen\nby\na\nwoman\nto\ninsult\nher\nmodesty/privacy.",
+      "protection_orders": "? Warning orders; removal of the offender from the location \n(e.g.,\nworkplace\nor\npublic\ntransport).",
+      "filing_process": [
+        "Report the incident to police or women's helpline (1091).",
+        "Identify the accused or provide description/location.",
+        "Witness statements are crucial here.",
+        "Police register FIR/Complaint."
+      ],
+      "punishments": "Simple imprisonment for a term which may extend to 3 years, and also with \nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Rupan Deol Bajaj v. K.P.S. Gill (Related Aspect) ● Background: Alongside the physical act, the accused made verbal comments. ● Action Taken: Court examined the nature of the \"insult.\" ● Court Order: Ruled that words or gestures that intrude upon the privacy of a woman",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Distinguished \"insult to modesty\" (verbal/gesture) from \"outraging modesty\" (assault/force)."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State Of Maharashtra And Another vs Madhukar Narayan Mardikar ● Background: Common street harassment involving lewd comments or whistling. ● Action Taken: Police often treat these as minor nuisances. ● Court Order: Courts have directed that persistent verbal harassment must be booked",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Provides a legal tool to punish \"eve-teasing\" before it escalates to physical assault."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman or any witness. \n__PAGE_14__"
+    },
+    {
+      "law_number": 15,
+      "title": "Dowry Death (BNS Section 80) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 80.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 80.",
+      "description": "? States that if a woman dies by burns, bodily injury, or under suspicious \ncircumstances\nwithin\n7\nyears\nof\nmarriage,\nand\nit\nis\nshown\nshe\nwas\nsubjected\nto\ncruelty\nor\nharassment\nfor\ndowry\nsoon\nbefore\ndeath,\nit\nis\n\"dowry\ndeath.\"",
+      "protection_orders": "? Immediate arrest of accused; freezing of assets to recover \ndowry\nitems\n(Stridhan)\nfor\nthe\nvictim’s\nheirs\n(children/parents).",
+      "filing_process": [
+        "Report death to police immediately (Unnatural death report).",
+        "Executive Magistrate holds an inquest (mandatory in dowry deaths).",
+        "Post-mortem examination conducted.",
+        "Police register FIR under BNS 80 (Cognizable and Non-bailable).",
+        "Burden of proof shifts to the accused to prove innocence."
+      ],
+      "punishments": "Imprisonment of not less than 7 years but which may extend to imprisonment \nfor\nlife.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Satbir Singh v. State of Haryana ● Background: The victim died of burns; the defense argued \"soon before death\" wasn't",
+          "background": "",
+          "action_taken": "Supreme Court interpreted the timeline of harassment.",
+          "court_order": "Ruled that \"soon before\" does not mean \"immediately before,\" but implies a live link between cruelty and death.",
+          "outcome": "Broadened the scope to ensure justice even if there was a time gap."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Shanti v. State of Haryana ● Background: The victim's parents alleged dowry harassment after she was found dead. ● Action Taken: Accused claimed natural death; lack of direct eyewitnesses. ● Court Order: Court held that unnatural death + harassment for dowry within 7 years",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Reinforced the presumption of guilt against the husband/in-laws in such cases."
+        }
+      ],
+      "who_can_file": "? Parents, relatives, or any person aware of the circumstances. \n__PAGE_15__"
+    },
+    {
+      "law_number": 16,
+      "title": "Cohabitation caused by man deceitfully inducing belief of lawful",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 81.",
+      "description": "? Punishes a man who causes a woman who is not lawfully married to him \nto\nbelieve\nthat\nshe\nis,\nand\nthereby\ncohabits\nor\nhas\nsexual\nintercourse\nwith\nher.",
+      "protection_orders": "? Restraining orders; orders for maintenance or compensation \nfor\nthe\nwoman\ndeceived.",
+      "filing_process": [
+        "File a complaint providing evidence of the deception (fake wedding documents, photos).",
+        "Police investigate the validity of the marriage and the man's intent.",
+        "Statement of the woman recorded regarding her belief in the marriage.",
+        "Charge sheet filed for fraud and sexual exploitation."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 10 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State v. Deceitful Marriage ● Background: A man performed a fake ceremony to live with a woman, knowing it wasn't",
+          "background": "",
+          "action_taken": "Woman discovered the truth later and filed a case.",
+          "court_order": "Court ruled that creating a false belief of marriage to access a woman's body is a grave offense.",
+          "outcome": "Conviction secured for deceitful cohabitation."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Previous IPC Precedents (General) ● Background: Cases where men used religious loopholes to claim marriage was valid to",
+          "background": "",
+          "action_taken": "Courts examine the \"inducement\" and \"belief\" of the woman.",
+          "court_order": "If the woman believed she was married due to the man's actions, the crime is committed.",
+          "outcome": "Protects women from being exploited through sham marriages."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman. \n__PAGE_16__"
+    },
+    {
+      "law_number": 17,
+      "title": "Marrying again during lifetime of husband or wife (BNS Section 82) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 82.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 82.",
+      "description": "? Commonly known as Bigamy. It penalizes marrying another person while \nhaving\na\nliving\nspouse,\nrendering\nthe\nsecond\nmarriage\nvoid.",
+      "protection_orders": "? Declaration that the second marriage is null and void; \nmaintenance\norders\nfor\nthe\nfirst\nwife.",
+      "filing_process": [
+        "Aggrieved spouse must file a direct complaint to the Magistrate (police generally do not register FIR directly for bigamy).",
+        "Provide proof of the first marriage and the second marriage (photos, invitations).",
+        "Magistrate conducts inquiry and summons the accused."
+      ],
+      "punishments": "Imprisonment which may extend to 7 years (or 10 years if the previous \nmarriage\nwas\nconcealed\nfrom\nthe\nnew\nspouse),\nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Sarla Mudgal v. Union of India ● Background: Hindu men converted to Islam solely to contract a second marriage. ● Action Taken: Wives challenged the validity of these conversions and marriages. ● Court Order: SC ruled that conversion does not dissolve the first marriage; the second",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Prevented the misuse of personal laws to bypass bigamy laws."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Laxmi Devi v. Satya Narayan ● Background: Difficulty in proving the \"ceremonies\" of the second marriage. ● Action Taken: Court examined if admission of marriage is enough. ● Court Order: Strict proof of essential marriage ceremonies is usually required for a",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Highlights the need for strong evidence of the second wedding ritual."
+        }
+      ],
+      "who_can_file": "? The aggrieved husband or wife. \n__PAGE_17__"
+    },
+    {
+      "law_number": 18,
+      "title": "Marriage ceremony fraudulently gone through without lawful marriage",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 83.",
+      "description": "? Punishes anyone who dishonestly goes through a marriage ceremony \nknowing\nthat\nit\ndoes\nnot\ncreate\na\nvalid\nmarriage\n(e.g.,\nomitting\nessential\nrituals\nintentionally).",
+      "protection_orders": "? Nullity of marriage decrees; compensation for the victim of the \nfraud.",
+      "filing_process": [
+        "File a complaint detailing the fraud.",
+        "Provide evidence that the accused knew the ceremony was invalid.",
+        "Witness testimonies regarding the rituals performed (or omitted).",
+        "Magistrate initiates trial."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 7 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Godawari v. State of Maharashtra ● Background: Accused performed a partial ceremony to convince the woman they were",
+          "background": "",
+          "action_taken": "Woman sued for bigamy, but ceremonies were incomplete.",
+          "court_order": "Court convicted under the fraudulent ceremony section instead of bigamy.",
+          "outcome": "Ensured punishment for the dishonest intent even if a valid marriage wasn't formed."
+        },
+        {
+          "case_number": 2,
+          "case_name": "General Application ● Background: Cases where a person hires a fake priest to conduct a sham wedding. ● Action Taken: Investigation focuses on the \"dishonest intention\" at the time of the",
+          "background": "",
+          "action_taken": "",
+          "court_order": "If the intent was to deceive the partner into thinking they are married, it is a crime.",
+          "outcome": "Closes the loophole for mock marriages."
+        }
+      ],
+      "who_can_file": "? The person deceived by the ceremony. \n__PAGE_18__"
+    },
+    {
+      "law_number": 19,
+      "title": "Enticing or taking away or detaining with criminal intent a married",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 84.",
+      "description": "? Punishes taking, enticing, or concealing a woman known to be the wife of \nanother\nman,\nwith\nthe\nintent\nthat\nshe\nmay\nhave\nillicit\nintercourse\nwith\nany\nperson.",
+      "protection_orders": "? Search warrants to recover the detained woman (Habeas \nCorpus);\nrestoration\nof\nthe\nwoman\nto\nliberty.",
+      "filing_process": [
+        "Husband or guardian files a complaint/FIR.",
+        "Police investigate the \"enticement\" or \"detention\" aspect.",
+        "Woman is located and her statement recorded.",
+        "Court determines if she was held against her will or enticed for illicit purposes."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 2 years, or \nwith\nfine,\nor\nboth.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Alamgir v. State of Bihar ● Background: A woman left her husband and lived with another man. The husband",
+          "background": "",
+          "action_taken": "Accused claimed the woman came voluntarily.",
+          "court_order": "SC ruled that \"detaining\" includes keeping a woman even if she is willing, if the intent is illicit intercourse.",
+          "outcome": "Interpreted \"detention\" broadly to protect marital rights."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Joseph Shine v. Union of India (Contextual Note) ● Background: This section is distinct from Adultery (which was decriminalized). ● Action Taken: BNS 84 survives because it involves \"taking away\" or \"detaining,\" not just",
+          "background": "",
+          "action_taken": "",
+          "court_order": "Focus is on the deprivation of the husband's company through enticement/force.",
+          "outcome": "Remains a valid offense for removing a married woman from her home."
+        }
+      ],
+      "who_can_file": "? The husband or person having care of the woman on his behalf. \n__PAGE_19__"
+    },
+    {
+      "law_number": 20,
+      "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 85.",
+      "description": "? Criminalizes cruelty by a husband or his relatives towards a wife. Cruelty \nincludes\nwilful\nconduct\ndriving\nher\nto\nsuicide\nor\ngrave\ninjury,\nand\nharassment\nfor\ndowry.",
+      "protection_orders": "? Protection officers can assist; orders to stop domestic \nviolence;\nresidence\norders\nensuring\nshe\nisn't\nthrown\nout.",
+      "filing_process": [
+        "Call 112 or Women's Helpline (181).",
+        "File FIR at the police station (Crime Against Women Cell).",
+        "Submit medical reports if physical injury exists.",
+        "Police investigate and may arrest immediate perpetrators.",
+        "Can be filed alongside Domestic Violence Act petitions."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 3 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Arnesh Kumar v. State of Bihar ● Background: Rise in misuse of cruelty laws led to automatic arrests of entire families. ● Action Taken: Supreme Court laid down guidelines for arrest. ● Court Order: Police must not automatically arrest; they must follow specific checklists",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Balanced the protection of women with the rights of the accused against arbitrary arrest."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State of Andhra Pradesh v. M. Madhusudhan Rao ● Background: Allegations of mental cruelty and demand for dowry. ● Action Taken: Court evaluated if \"harassment\" alone constitutes cruelty. ● Court Order: Ruled that harassment with a view to coercing her to meet unlawful",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Confirmed that mental torture for dowry is punishable under this section."
+        }
+      ],
+      "who_can_file": "? The aggrieved wife or her relatives. \n__PAGE_20__"
+    },
+    {
+      "law_number": 21,
+      "title": "Cruelty defined (BNS Section 86) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 86.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 86.",
+      "description": "? Provides the specific legal definition of \"Cruelty\" for Section 85. It defines \nit\nas:\n(a) Wilful conduct likely to drive a woman to suicide or cause grave injury/danger to life, limb, or \nhealth\n(mental\nor\nphysical).\n(b) Harassment to coerce her or her relatives to meet an unlawful demand for property/valuable \nsecurity\n(dowry).",
+      "protection_orders": "? Used as the basis for granting protection orders under the \nDomestic\nViolence\nAct.",
+      "filing_process": [
+        "This section is evidentiary; it is cited to prove the offense under BNS 85.",
+        "Document specific incidents that fit definition (a) or (b).",
+        "Provide evidence of \"wilful conduct\" (persistent abuse patterns).",
+        "Provide evidence of \"unlawful demands\" (messages asking for money/car)."
+      ],
+      "punishments": "(Punishment is applied under Section 85) Imprisonment up to 3 years and \nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "G.V. Siddaramesh v. State of Karnataka ● Background: Court had to determine if minor domestic disputes count as \"Cruelty\"",
+          "background": "",
+          "action_taken": "Supreme Court analyzed the definition of \"wilful conduct.\"",
+          "court_order": "Cruelty must be of such a grave nature that it endangers the woman; ordinary wear and tear of married life is not Section 86 cruelty.",
+          "outcome": "Clarified the high threshold required for criminal cruelty."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Shobha Rani v. Madhukar Reddi ● Background: Case regarding \"mental cruelty.\" ● Action Taken: Court examined if lack of physical violence excludes cruelty. ● Court Order: Mental cruelty (e.g., constant insults, isolation) falls under \"health\" in the",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Broadened the definition to strictly include mental well-being."
+        }
+      ],
+      "who_can_file": "? Used by the prosecution/victim to substantiate charges under BNS 85. \n__PAGE_21__"
+    },
+    {
+      "law_number": 22,
+      "title": "Kidnapping, abducting or inducing woman to compel her marriage, etc.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 87.",
+      "description": "? Punishes kidnapping or abducting a woman with the intent to compel her \nto\nmarry\nagainst\nher\nwill,\nor\nto\nforce\nher\nto\nunlawful\nsexual\nintercourse.",
+      "protection_orders": "? Rescue orders; safe custody in a shelter home; protection \nfrom\nthe\nabductor's\nfamily.",
+      "filing_process": [
+        "Immediate FIR for kidnapping/abduction.",
+        "Police track the location (often using cell tower data).",
+        "Rescue operation conducted.",
+        "Woman's statement recorded before a Magistrate (Section 183 BNSS) regarding \"compulsion.\"",
+        "Medical examination."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 10 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Mafat Lal v. State of Rajasthan ● Background: A woman was abducted and forced to marry under threat. ● Action Taken: Defense claimed she consented to the marriage eventually. ● Court Order: Court ruled that initial abduction and force vitiate any subsequent",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Conviction upheld; emphasized that \"will\" must be free, not forced."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State v. Bride Kidnapping (General Context) ● Background: Practice of abducting women for marriage in certain regions. ● Action Taken: Courts treat this as a heinous crime against individual liberty. ● Court Order: Consent given after abduction is viewed with extreme suspicion. ● Outcome: Strong deterrent against the custom of forced marriage by capture.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? The victim, her parents, or guardian. \n__PAGE_22__"
+    },
+    {
+      "law_number": 23,
+      "title": "Causing Miscarriage (BNS Section 88)",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 88.",
+      "description": "? Punishes voluntarily causing a woman with child to miscarry if not done in \ngood\nfaith\nto\nsave\nher\nlife,\neven\nif\nthe\nwoman\nconsents.",
+      "protection_orders": "? Medical care orders; restraining orders against those forcing \nthe\nprocedure.",
+      "filing_process": [
+        "If forced or illegal: File a complaint/FIR immediately.",
+        "Medical examination to confirm the pregnancy status and the cause of miscarriage (drug-induced or physical).",
+        "Seizure of medical records if performed at a clinic.",
+        "Investigation into whether it falls under the Medical Termination of Pregnancy (MTP) Act exceptions."
+      ],
+      "punishments": "● Generally: Imprisonment of either description for a term which may extend to 3 years, or \nwith\nfine,\nor\nboth.\n● If the woman is \"quick with child\" (advanced stage): Imprisonment which may extend to 7 \nyears,\nand\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Suchita Srivastava v. Chandigarh Administration",
+          "background": "Authorities sought abortion of a mentally challenged rape survivor under “good faith.”",
+          "action_taken": "The case reached the Supreme Court regarding the woman's right to consent.",
+          "court_order": "SC ruled that a woman’s right to reproductive choice is part of personal liberty.",
+          "outcome": "Established that \"causing miscarriage\" without valid consent or outside MTP guidelines is a violation of rights."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Unlicensed Practitioner Cases (General)",
+          "background": "Quacks performing abortions in unsafe conditions causing miscarriage.",
+          "action_taken": "Police raids on illegal clinics.",
+          "court_order": "Courts differentiate lawful MTP by doctors and criminal miscarriage under BNS 88.",
+          "outcome": "Unqualified practitioners are prosecuted for endangering life. __PAGE_23__"
+        }
+      ],
+      "who_can_file": "? The woman (if not voluntary/consensual), or the State/Police (if illegal \nabortion\nring).\n__PAGE_24__"
+    },
+    {
+      "law_number": 24,
+      "title": "Causing Miscarriage Without Woman's Consent (BNS Section 89)",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 89.",
+      "description": "? A stricter law punishing anyone who causes a woman to miscarry without \nher\nconsent\n(e.g.,\nby\nphysical\nassault\nor\nadministering\ndrugs\ndeceitfully).",
+      "protection_orders": "? Immediate arrest of the accused (non-bailable offense); \nemergency\nmedical\nprotection\nfor\nthe\nvictim.",
+      "filing_process": [
+        "Call 112 or visit the police station.",
+        "Register FIR under BNS 89 (Grave offense).",
+        "Provide evidence (medical reports, history of domestic violence, or traces of abortifacient drugs).",
+        "Magistrate records the victim's statement."
+      ],
+      "punishments": "Imprisonment for life, or imprisonment of either description for a term which \nmay\nextend\nto\n10\nyears,\nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State of Maharashtra v. Husband & In-laws",
+          "background": "Pregnant woman was fed \"medicine\" by in-laws claiming it was a vitamin, which caused abortion.",
+          "action_taken": "Victim filed a case alleging deceit and lack of consent.",
+          "court_order": "Court held that consent obtained by fraud (disguising the drug) is no consent.",
+          "outcome": "Convicted the family for causing miscarriage without consent."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Tulsi Devi v. State of UP",
+          "background": "Husband kicked the wife in the abdomen during a fight, resulting in miscarriage.",
+          "action_taken": "Charged under the equivalent IPC section for non-consensual miscarriage.",
+          "court_order": "Ruled that physical assault on a pregnant woman leading to fetal loss falls under this grave section.",
+          "outcome": "High penalty imposed due to the violent nature of the act."
+        }
+      ],
+      "who_can_file": "? The aggrieved woman. \n__PAGE_25__"
+    },
+    {
+      "law_number": 25,
+      "title": "Death Caused by Act Done with Intent to Cause Miscarriage (BNS",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 90.",
+      "description": "? Punishes a person if the woman dies as a result of an act done with the \nintent\nto\ncause\nmiscarriage.\nIt\ndistinguishes\nbetween\ndoing\nthis\nwith\nor\nwithout\nthe\nwoman's\nconsent.",
+      "protection_orders": "? Not applicable (Victim is deceased); Compensation for legal \nheirs.",
+      "filing_process": [
+        "Unnatural death reported to police.",
+        "Post-mortem conducted to link the death to the abortion procedure/act.",
+        "Investigation into who performed the act and the level of consent.",
+        "Charge sheet filed for culpable homicide/miscarriage resulting in death."
+      ],
+      "punishments": "● If done with woman's consent: Imprisonment which may extend to 10 years and fine. ● If done without woman's consent: Imprisonment for life, or punishment as above.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Dr. Jacob George v. State of Kerala",
+          "background": "A doctor attempted an abortion using unapproved methods, leading to the woman's death.",
+          "action_taken": "Doctor charged for the act causing death.",
+          "court_order": "Court emphasized that even if the woman consented to the abortion, negligence or illegal methods causing death are punishable here.",
+          "outcome": "Doctor convicted; highlighted the liability of medical practitioners in botching illegal abortions."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Illegal Clinic Raids",
+          "background": "Women dying due to septic abortions in unauthorized clinics.",
+          "action_taken": "State prosecutes the clinic owners.",
+          "court_order": "Treated as a serious crime against public health and safety.",
+          "outcome": "Severe sentencing to deter unsafe abortion practices."
+        }
+      ],
+      "who_can_file": "? Family members, relatives, or police. \n__PAGE_26__"
+    },
+    {
+      "law_number": 26,
+      "title": "Act Done with Intent to Prevent Child Being Born Alive or to Cause to",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 91.",
+      "description": "? Punishes acts done before the birth of a child with the intention of \npreventing\nthe\nchild\nfrom\nbeing\nborn\nalive\nor\ncausing\nit\nto\ndie\nafter\nbirth\n(unless\ndone\nto\nsave\nthe\nmother's\nlife).",
+      "protection_orders": "? Hospital surveillance orders; protection of the infant if born \nalive.",
+      "filing_process": [
+        "Report suspicious activity (e.g., attempts to injure a full-term pregnancy).",
+        "Medical evidence showing injury to the fetus or newborn caused by pre-birth actions.",
+        "Investigation into the \"intent\" (malice)."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 10 years, or \nwith\nfine,\nor\nboth.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State v. Infanticide Attempts",
+          "background": "Accused administered poison to a mother in late pregnancy to ensure the baby would die upon birth.",
+          "action_taken": "Baby died shortly after birth.",
+          "court_order": "Ruled that the act was committed before birth with the specific intent to cause post-birth death.",
+          "outcome": "Conviction under this specific section rather than murder, as the act occurred pre-birth."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Domestic Violence Context",
+          "background": "Severe beating of a woman in the 9th month of pregnancy.",
+          "action_taken": "Defense argued it was simple hurt.",
+          "court_order": "If the intent was to stop the live birth, Section 91 applies.",
+          "outcome": "Recognized the fetus's right to be born alive."
+        }
+      ],
+      "who_can_file": "? The mother, relatives, or medical staff. \n__PAGE_27__"
+    },
+    {
+      "law_number": 27,
+      "title": "Causing Death of Quick Unborn Child by Act Amounting to Culpable",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 92.",
+      "description": "? Punishes an act that causes the death of a \"quick\" unborn child (fetus \ncapable\nof\nmovement/advanced\nstage)\nif\nthe\nact\nis\nsuch\nthat\nit\nwould\nhave\namounted\nto\nculpable\nhomicide\nif\nit\nhad\ncaused\nthe\ndeath\nof\nthe\nmother.",
+      "protection_orders": "? Immediate arrest of the perpetrator.",
+      "filing_process": [
+        "File FIR detailing the assault or act.",
+        "Medical confirmation that the child was \"quick\" (moving/viable) and died due to the act.",
+        "Prove that the act was dangerous enough to kill a person (culpable homicide nature)."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 10 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Jabbar v. State",
+          "background": "Accused attacked a pregnant woman with a weapon; she survived, but the unborn child died.",
+          "action_taken": "Accused charged for the death of the unborn child.",
+          "court_order": "Court held that since the act could have killed the mother (culpable homicide), the death of the unborn child is a distinct grave offense.",
+          "outcome": "Punished separately for the death of the fetus."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Road Rage/Accidental Case",
+          "background": "A rash driver hit a pregnant woman; the child died in the womb.",
+          "action_taken": "Checked if the act amounted to \"culpable homicide\" (intent/knowledge) vs. \"rash driving.\"",
+          "court_order": "If knowledge that the act was imminently dangerous existed, Section 92 applies.",
+          "outcome": "Distinguishes between accidental fetal loss and loss caused by criminal violence."
+        }
+      ],
+      "who_can_file": "? The mother, relatives, or any witness. \n__PAGE_28__"
+    },
+    {
+      "law_number": 28,
+      "title": "Exposure and abandonment of child under twelve years of age (BNS",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 93.",
+      "description": "? Punishes a parent or caretaker who exposes or leaves a child under \ntwelve\nyears\nof\nage\nin\nany\nplace\nwith\nthe\nintention\nof\nwholly\nabandoning\nthe\nchild.",
+      "protection_orders": "? Child placed in shelter homes (CWC custody); immediate \nmedical\ncare\norders;\ntermination\nof\nparental\nrights\nif\ndeemed\nunsafe.",
+      "filing_process": [
+        "Report the abandoned child to Police (112) or Childline (1098).",
+        "Police record the location and condition of the child.",
+        "Child produced before the Child Welfare Committee (CWC) within 24 hours.",
+        "Investigation to trace parents via DNA or CCTV."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 7 years, or \nwith\nfine,\nor\nboth.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State of Madhya Pradesh v. Munna ● Background: A father left his young child in a crowded market to get rid of the \"burden.\" ● Action Taken: Child found by locals; father traced. ● Court Order: Court ruled that \"exposure\" includes leaving a child where they face",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Conviction for abandonment to deter parents from discarding children."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Unwanted Girl Child Cases (General) ● Background: Newborn girls often found in dumpsters or religious sites. ● Action Taken: Police register FIR against \"Unknown Persons\" under this section. ● Court Order: Courts view this as a crime against humanity and the child's right to life. ● Outcome: Strict enforcement to combat female infanticide/abandonment.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police, Childline, Social Workers, or any citizen finding the child. \n__PAGE_29__"
+    },
+    {
+      "law_number": 29,
+      "title": "Concealment of birth by secret disposal of dead body (BNS Section 94) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 94.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 94.",
+      "description": "? Punishes the act of secretly burying or disposing of the dead body of a \nchild\n(whether\nthe\nchild\ndied\nbefore,\nduring,\nor\nafter\nbirth)\nto\nintentionally\nconceal\nthe\nfact\nthat\nthe\nchild\nwas\nborn.",
+      "protection_orders": "? Not applicable (Victim is deceased); investigative orders to \ndetermine\ncause\nof\ndeath.",
+      "filing_process": [
+        "Discovery of a fetus/infant body reported to police.",
+        "Post-mortem to determine if the child was born alive or stillborn (hydrostatic test).",
+        "Investigation to identify the mother/parents.",
+        "Charge sheet filed for concealment."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 2 years, or \nwith\nfine,\nor\nboth.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Madhu Bala v. State ● Background: A woman secretly buried a stillborn child to avoid social stigma. ● Action Taken: Police suspected infanticide (murder). ● Court Order: Medical evidence proved the child was stillborn. The charge was reduced",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Distinguished between killing a child and hiding the birth of a dead child."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State v. Secret Burial ● Background: Unmarried mother disposed of the newborn's body in a field. ● Action Taken: Community reported the suspicious digging. ● Court Order: Ruled that the \"intention\" to hide the birth from the world is the key",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Punished for denying the child a dignified record of existence/death."
+        }
+      ],
+      "who_can_file": "? Police or any person discovering the body. \n__PAGE_30__"
+    },
+    {
+      "law_number": 30,
+      "title": "Hiring, employing or engaging a child to commit an offence (BNS",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 95.",
+      "description": "? A specific provision punishing anyone who hires, employs, or engages a \nchild\nto\ncommit\nany\npunishable\noffense.\nThis\ntargets\nadults\nwho\nuse\nchildren\nas\nshields\nor\ntools\nfor\ncrime.",
+      "protection_orders": "? Child placed in juvenile care/protection; removal from the \ninfluence\nof\nthe\ncriminal\ngang/adult.",
+      "filing_process": [
+        "Police apprehend a child committing a crime (theft, drug peddling).",
+        "Investigation reveals an adult \"handler.\"",
+        "FIR registered against the adult under BNS 95.",
+        "Child treated as a \"Child in Conflict with Law\" (victim of the adult)."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 7 years, or \nwith\nfine,\nor\nboth.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Bachpan Bachao Andolan v. Union of India ● Background: PIL highlighting children used for begging and theft rings. ● Action Taken: Supreme Court directed strict action against \"handlers.\" ● Court Order: Adults forcing children into crime must be prosecuted separately and",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Validated laws like BNS 95 that target the \"mastermind\" rather than just the child."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Drug Peddling Cases ● Background: Drug lords using minors to carry contraband to avoid suspicion. ● Action Taken: Police investigation focused on the supplier, not just the child carrier. ● Court Order: Held that engaging a child for such acts is an aggravated offense. ● Outcome: Curbing the exploitation of minors in organized crime.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police, Child Rights Activists, or guardians. \n__PAGE_31__"
+    },
+    {
+      "law_number": 31,
+      "title": "Procuration of child (BNS Section 96) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 96.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 96.",
+      "description": "? Punishes anyone who induces a child (under 18) to go from any place \nwith\nthe\nintent\nthat\nthe\nchild\nmay\nbe\nseduced\nor\nforced\nto\nillicit\nintercourse,\nor\ntrafficked.",
+      "protection_orders": "? Rescue and rehabilitation orders; repatriation to home state if \ntrafficked;\nsealing\nof\npremises\nused\nfor\nexploitation.",
+      "filing_process": [
+        "File FIR regarding missing child or suspicion of trafficking.",
+        "Anti-Human Trafficking Unit (AHTU) takes over.",
+        "Rescue operation (often inter-state).",
+        "Statement of child recorded regarding who \"procured\" or recruited them."
+      ],
+      "punishments": "Rigorous imprisonment for a term which may extend to 10 years, and a fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Varsha Kapoor v. Union of India ● Background: Case involved agents recruiting girls from villages under the guise of jobs. ● Action Taken: Girls were sold into brothels. ● Court Order: Court emphasized that the initial \"recruitment\" (procuration) is the root of",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Strict liability on agents/recruiters even if they didn't run the brothel."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State v. Online Grooming ● Background: Adult induced a minor via social media to leave home for a \"meeting.\" ● Action Taken: Police intercepted them at a train station. ● Court Order: Ruled that inducing a child to leave home for illicit purposes constitutes",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Applies to digital recruitment methods."
+        }
+      ],
+      "who_can_file": "? Parents, NGOs, or Police. \n__PAGE_32__"
+    },
+    {
+      "law_number": 32,
+      "title": "Kidnapping or abducting child under ten years of age with intent to",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 97.",
+      "description": "? Specifically punishes kidnapping or abducting a child under 10 years old \nwith\nthe\nintention\nof\ndishonestly\ntaking\nany\nmovable\nproperty\n(jewelry,\nornaments)\nfrom\nthe\nchild's\nbody.",
+      "protection_orders": "? Recovery of stolen property; compensation for trauma to the \nchild.",
+      "filing_process": [
+        "Report kidnapping immediately.",
+        "Provide description of items worn by the child (gold chains, etc.).",
+        "Police track known offenders who target children for theft.",
+        "Child recovered and items traced to pawn shops/jewellers."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 7 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Vimal Chadha v. State ● Background: A child was lured away with candy to steal gold earrings. ● Action Taken: Child left unharmed after theft, but traumatized. ● Court Order: Court treated this as distinct from simple theft because of the kidnapping",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Higher punishment due to the risk posed to the vulnerable child."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Street Crime Precedents ● Background: Gangs targeting school children for jewelry. ● Action Taken: Police booked offenders under this specific kidnapping section rather",
+          "background": "",
+          "action_taken": "",
+          "court_order": "Upheld that moving the child even a small distance to steal qualifies as kidnapping under this section.",
+          "outcome": "Deterrence against targeting young children for robbery."
+        }
+      ],
+      "who_can_file": "? Parents or guardians. \n__PAGE_33__"
+    },
+    {
+      "law_number": 33,
+      "title": "Selling child for purposes of prostitution, etc. (BNS Section 98) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 98.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 98.",
+      "description": "? Punishes selling, letting to hire, or otherwise disposing of any child (under \n18)\nwith\nthe\nintent\nor\nknowledge\nthat\nthe\nchild\nwill\nbe\nemployed\nfor\nprostitution\nor\nillicit\nintercourse.",
+      "protection_orders": "? Immediate rescue; placement in protective custody; freezing of \nassets\nof\nthe\ntrafficker.",
+      "filing_process": [
+        "Tip-off or complaint to AHTU/Police.",
+        "Decoy operations often used to catch sellers.",
+        "FIR registered under BNS 98 and POCSO Act.",
+        "Rescue of the child and medical examination."
+      ],
+      "punishments": "Rigorous imprisonment for a term which may extend to 10 years, and a fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Gaurav Jain v. Union of India ● Background: Addressed the plight of children of sex workers and trafficking victims. ● Action Taken: SC issued guidelines for rescue and rehabilitation. ● Court Order: Selling a child is a violation of fundamental rights; strict prosecution of the",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Shifted focus to punishing the trafficker/seller, not the victim."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State v. Family Involvement ● Background: Parents sold their daughter due to poverty. ● Action Taken: Both the broker and parents were charged. ● Court Order: Poverty is not a defense for selling a human being. ● Outcome: Reaffirmed that a child is not a commodity.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police, NGOs, or any concerned citizen. \n__PAGE_34__"
+    },
+    {
+      "law_number": 34,
+      "title": "Buying child for purposes of prostitution, etc. (BNS Section 99) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 99.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 99.",
+      "description": "? Punishes buying, hiring, or otherwise obtaining possession of any child \n(under\n18)\nwith\nthe\nintent\nor\nknowledge\nthat\nthe\nchild\nwill\nbe\nemployed\nfor\nprostitution\nor\nillicit\nintercourse.",
+      "protection_orders": "? Sealing of the establishment where the child was found; heavy \nfines\nand\ncompensation\norders.",
+      "filing_process": [
+        "Police raid based on intelligence.",
+        "Identification of the \"buyer\" or brothel keeper.",
+        "Child's statement recorded regarding the transaction.",
+        "Forensic evidence (financial trails) to prove the \"buying.\""
+      ],
+      "punishments": "Rigorous imprisonment for a term which may extend to 10 years, and a fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Budhadev Karmaskar v. State of West Bengal ● Background: Case highlighted the brutal reality of sex trafficking. ● Action Taken: Court took suo motu cognizance of the rehabilitation of victims. ● Court Order: The \"buyer\" or customer creates the demand and is equally liable as the",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Strengthened the legal stance against those who purchase minors for exploitation."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Customer/Client Raids ● Background: Police raids finding minors in custody of \"customers.\" ● Action Taken: Customers charged under \"Buying/Obtaining possession.\" ● Court Order: Temporary possession for illicit acts counts as \"obtaining possession.\" ● Outcome: Ensures customers cannot claim ignorance of the child's status.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police, NGOs, or any concerned citizen. \n__PAGE_35__"
+    },
+    {
+      "law_number": 35,
+      "title": "Abetment of suicide of child or person of unsound mind (BNS Section",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 107.",
+      "description": "? Punishes anyone who abets (encourages, aids, or instigates) the \ncommission\nof\nsuicide\nby\na\nchild\n(under\n18),\na\nperson\nof\nunsound\nmind,\nor\na\nperson\nin\na\nstate\nof\nintoxication.",
+      "protection_orders": "? Immediate arrest of the abettor (non-bailable); psychological \nsupport\nand\nprotective\ncustody\nfor\nthe\nvictim\nif\nthe\nattempt\nsurvived.",
+      "filing_process": [
+        "Report the suicide or attempt to the police immediately.",
+        "Police register FIR under BNS 107 (Cognizable offense).",
+        "Investigation focuses on the age/mental state of the victim and the instigation by the accused.",
+        "Statements of family and witnesses recorded."
+      ],
+      "punishments": "Death, or imprisonment for life, or imprisonment for a term not exceeding 10 \nyears,\nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Common Law Precedents (General) ● Background: Cases where adults manipulated minors into suicide pacts but the adult",
+          "background": "",
+          "action_taken": "The adult is charged not just for attempted suicide, but for abetting the child's death.",
+          "court_order": "Courts treat the abetment of a vulnerable person's suicide as equivalent to homicide in severity.",
+          "outcome": "Severe punishment due to the victim's lack of full capacity to consent to the act."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Satvir Singh v. State of Punjab ● Background: Harassment of a woman led to her suicide; her children also died. ● Action Taken: The accused was charged for the suicide of the wife and the children. ● Court Order: Ruled that driving a mother to suicide, knowing she might take her children",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Highlights that abetment extends to the consequences on dependents (children)."
+        }
+      ],
+      "who_can_file": "? Family members, police, or any person aware of the incident. \n__PAGE_36__"
+    },
+    {
+      "law_number": 36,
+      "title": "Act of a child under seven years of age (BNS Section 20) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 20.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 20.",
+      "description": "? A \"General Exception\" which states that nothing is an offense which is \ndone\nby\na\nchild\nunder\nseven\nyears\nof\nage.\nThis\nestablishes\nthe\ndoctrine\nof\nDoli\nIncapax\n(incapable\nof\ncrime).",
+      "protection_orders": "? Total immunity from criminal prosecution; the child cannot be \narrested\nor\nsummoned\nto\na\ncriminal\ncourt.",
+      "filing_process": [
+        "If a child under 7 is accused of a crime (e.g., injuring someone), the police inquire about the age.",
+        "Submit birth certificate or medical age proof to the Investigating Officer.",
+        "The case is closed immediately upon age verification as no crime exists in the eyes of the law."
+      ],
+      "punishments": "None. The child is legally incapable of committing a crime.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Marsh v. Loader (Historical Precedent) ● Background: A child under 7 was caught stealing wood. ● Action Taken: The child was arrested. ● Court Order: The court ruled the arrest illegal because a child under 7 cannot have a",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Established the absolute immunity of children under 7."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State v. Minor Child (General) ● Background: A 6-year-old fired a gun accidentally, injuring a neighbor. ● Action Taken: Police investigated but could not file an FIR against the child. ● Court Order: Action was taken against the parents for negligence (BNS 106 or similar),",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Child released; parents held liable for negligence."
+        }
+      ],
+      "who_can_file": "? This section is pleaded by the parent/guardian or lawyer to protect the child \naccused\nof\nan\nact.\n__PAGE_37__"
+    },
+    {
+      "law_number": 37,
+      "title": "Act of a child above seven and under twelve of immature understanding",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 21.",
+      "description": "? States that an act is not an offense if done by a child above 7 and under \n12\nyears\nof\nage,\nwho\nhas\nnot\nattained\nsufficient\nmaturity\nof\nunderstanding\nto\njudge\nthe\nnature\nand\nconsequences\nof\ntheir\nconduct.",
+      "protection_orders": "? Preliminary Assessment by the Juvenile Justice Board (JJB) to \ndetermine\nmaturity\nlevel.",
+      "filing_process": [
+        "Child is apprehended for an offense.",
+        "Parents/Lawyer claim protection under BNS 21.",
+        "JJB or Court conducts a test to see if the child knew what they were doing was \"wrong.\"",
+        "If found immature, the child is acquitted. If mature, processed under Juvenile Justice Act."
+      ],
+      "punishments": "None if found to be of immature understanding. If mature, sent to a special \nhome\n(never\nprison).",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Hiralal Mallick v. State of Bihar ● Background: A 12-year-old boy killed a person with a sword along with adults. ● Action Taken: Defense pleaded immaturity. ● Court Order: Court observed the boy threatened witnesses and ran away, showing he",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Convicted as \"maturity of understanding\" was present."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Ulla Mahapatra v. The King ● Background: An 11-year-old boy killed a person but showed no attempt to hide the",
+          "background": "",
+          "action_taken": "Court evaluated his behavior post-crime.",
+          "court_order": "Ruled that the lack of secrecy indicated a lack of understanding of the consequences.",
+          "outcome": "Acquitted under this exception."
+        }
+      ],
+      "who_can_file": "? Pleaded by the defense (Lawyer/Guardian) on behalf of the child. \n__PAGE_38__"
+    },
+    {
+      "law_number": 38,
+      "title": "Voluntarily causing hurt (BNS Section 115) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 115.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 115.",
+      "description": "? Punishes anyone who voluntarily does an act with the intention or \nknowledge\nto\ncause\nbodily\npain,\ndisease,\nor\ninfirmity\nto\nany\nperson.",
+      "protection_orders": "? Restraining orders; bail conditions preventing the accused \nfrom\nmeeting\nthe\nvictim.",
+      "filing_process": [
+        "Go to police station or hospital.",
+        "Get a medical report (MLC) documenting the injury (bruises, swelling).",
+        "File FIR (usually Non-Cognizable for simple hurt, requiring Magistrate permission to investigate, unless part of a larger crime).",
+        "Police record statement."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 1 year, or \nwith\nfine\nwhich\nmay\nextend\nto\n10,000\nrupees,\nor\nboth.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State of UP v. Ram Swarup ● Background: Accused slapped and punched the victim during an argument. ● Action Taken: Medical report showed simple abrasions. ● Court Order: Distinguished between \"hurt\" and \"assault.\" ● Outcome: Convicted for voluntarily causing hurt as pain was inflicted.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        },
+        {
+          "case_number": 2,
+          "case_name": "Local Road Rage Cases (General) ● Background: Drivers fighting after a collision, resulting in minor physical fights. ● Action Taken: Police file charges under this section. ● Court Order: Often resolved through compromise or fines as the injury is not",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Simple hurt is a compoundable offense (parties can settle)."
+        }
+      ],
+      "who_can_file": "? The victim or any witness. \n__PAGE_39__"
+    },
+    {
+      "law_number": 39,
+      "title": "Voluntarily causing grievous hurt (BNS Section 117) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 117.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 117.",
+      "description": "? Punishes causing \"Grievous Hurt\" (defined in Section 116), which \nincludes\nemasculation,\nloss\nof\nsight/hearing,\ndisfigurement,\nbone\nfracture,\nor\nsevere\npain\nlasting\n15\ndays\nor\nmore.",
+      "protection_orders": "? Denial of bail (often cognizable and non-bailable depending on \nweapon);\ncompensation\norders\nfor\nmedical\ncosts.",
+      "filing_process": [
+        "Immediate hospitalization and MLC (Medico-Legal Case).",
+        "X-rays or specialist reports required to prove \"grievous\" nature (e.g., fracture).",
+        "File FIR under BNS 117 (Section 118 if dangerous weapon used).",
+        "Arrest of accused is mandatory in most cases."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 7 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State of Karnataka v. Shivalingaiah ● Background: The accused squeezed the testicles of the victim during a fight, causing",
+          "background": "",
+          "action_taken": "Originally charged with murder, but intent to kill was debated.",
+          "court_order": "SC ruled that squeezing testicles causes \"excruciating pain\" and shock, falling under grievous hurt (danger to life).",
+          "outcome": "Conviction for grievous hurt confirmed."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Fracture Cases (General) ● Background: Victim pushed down stairs, resulting in a broken arm. ● Action Taken: X-ray submitted as primary evidence. ● Court Order: A fracture automatically classifies the injury as \"grievous\" under the law. ● Outcome: Higher punishment than simple hurt due to the severity of injury.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? The victim, relatives, or police. \n__PAGE_40__"
+    },
+    {
+      "law_number": 40,
+      "title": "Voluntarily causing grievous hurt by use of acid, etc. (BNS Section 124) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 124.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 124.",
+      "description": "? Punishes the act of throwing acid or using any corrosive substance to \ncause\npermanent\nor\npartial\ndamage,\ndeformity,\nburns,\nor\nmaiming.",
+      "protection_orders": "? Free medical treatment (mandatory for all hospitals); massive \ncompensation\norders;\nwitness\nprotection.",
+      "filing_process": [
+        "Emergency medical aid (Private/Public hospitals cannot refuse treatment).",
+        "Police must register FIR immediately (Zero FIR applicable).",
+        "Magistrate records statement at the hospital.",
+        "Investigation completed within strict timelines."
+      ],
+      "punishments": "Imprisonment of not less than 10 years, which may extend to imprisonment \nfor\nlife,\nand\na\nfine\n(paid\nto\nvictim)\nwhich\nshall\nbe\njust\nand\nreasonable\nto\nmeet\nmedical\nexpenses.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Laxmi v. Union of India ● Background: A minor girl was attacked with acid for rejecting a marriage proposal. ● Action Taken: She filed a PIL in the Supreme Court for stricter laws and regulation of",
+          "background": "",
+          "action_taken": "",
+          "court_order": "SC directed the creation of specific sections (now BNS 124) and regulation of over-the-counter acid sales.",
+          "outcome": "Radical changes in law; made acid attack a specific, heinous offense."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Parivartan Kendra v. Union of India ● Background: Addressed the issue of rehabilitation and compensation for acid attack",
+          "background": "",
+          "action_taken": "Court reviewed the \"reasonable fine\" aspect.",
+          "court_order": "Ruled that compensation must be sufficient to cover reconstructive surgeries and rehabilitation.",
+          "outcome": "Courts now impose heavy fines on the accused to support the survivor's recovery."
+        }
+      ],
+      "who_can_file": "? The survivor, relatives, or any person aware of the incident. \n__PAGE_41__"
+    },
+    {
+      "law_number": 41,
+      "title": "Kidnapping (BNS Section 137) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 137.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 137.",
+      "description": "? Defines kidnapping as taking or enticing a minor (under 18) or a person of \nunsound\nmind\nout\nof\nthe\nkeeping\nof\ntheir\nlawful\nguardian\nwithout\nthe\nguardian's\nconsent.\nIt\ntechnically\ndoes\nnot\nrequire\nforce,\nonly\nthe\nremoval\nfrom\nlawful\ncustody.",
+      "protection_orders": "? Search warrants (Section 97/98 BNSS) to locate the person; \norders\nrestoring\ncustody\nto\nthe\nlawful\nguardian.",
+      "filing_process": [
+        "File an FIR immediately (time is critical).",
+        "Provide proof of age (birth certificate) to establish the victim is a minor.",
+        "Police launch a search operation and alert borders/transport hubs.",
+        "Victim recovered and statement recorded."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 7 years, \nand\na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "S. Varadarajan v. State of Madras ● Background: A college girl voluntarily accompanied the accused. The father filed for",
+          "background": "",
+          "action_taken": "Supreme Court examined the meaning of \"taking.\"",
+          "court_order": "Ruled that if a minor voluntarily leaves and the accused merely facilitates it without inducement, it may not be kidnapping.",
+          "outcome": "Clarified the active role required by the accused in \"taking\" or \"enticing.\""
+        },
+        {
+          "case_number": 2,
+          "case_name": "State of Haryana v. Raja Ram ● Background: Accused induced a minor to leave her house. ● Action Taken: Defense argued the girl came willingly. ● Court Order: Court held that a minor's consent is legally invalid; the guardian's consent",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Conviction upheld; established that \"consent\" of the minor is irrelevant in kidnapping."
+        }
+      ],
+      "who_can_file": "? The lawful guardian (parents) or any person in charge of the minor. \n__PAGE_42__"
+    },
+    {
+      "law_number": 42,
+      "title": "Abduction (BNS Section 138) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 138.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 138.",
+      "description": "? Defines abduction as compelling a person (of any age) by force, or \ninducing\nthem\nby\ndeceitful\nmeans,\nto\ngo\nfrom\nany\nplace.\nUnlike\nkidnapping,\nabduction\nis\nan\noffense\nagainst\nthe\nperson's\nown\nliberty,\nnot\nguardianship.",
+      "protection_orders": "? Habeas Corpus writ (High Court) to produce the person; police \nprotection\nupon\nrelease.",
+      "filing_process": [
+        "Report the disappearance or forced movement of a person.",
+        "Provide evidence of force or deceit (witness statements, CCTV).",
+        "Abduction is often an \"auxiliary\" crime (e.g., abduction in order to murder), so it is usually charged with other sections."
+      ],
+      "punishments": "(Punished under specific intent sections, e.g., BNS 140, but generally \npunishable\nas\na\ncomponent\nof\nthe\ncrime).",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Dolphin v. State ● Background: Argument that abduction is a one-time act. ● Action Taken: Court analyzed the nature of the crime. ● Court Order: Ruled that abduction is a \"continuing offense\"—it continues as long as the",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Allows for jurisdiction in any place the victim was moved through."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Vishwanath v. State of UP ● Background: A husband forced his wife to leave her father’s house by dragging her. ● Action Taken: Husband claimed he cannot abduct his own wife. ● Court Order: Court ruled that using force to compel any person, including a wife, to go",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Protected the bodily autonomy of women against forceful removal."
+        }
+      ],
+      "who_can_file": "? The victim, relatives, or any witness. \n__PAGE_43__"
+    },
+    {
+      "law_number": 43,
+      "title": "Kidnapping or maiming a child for purposes of begging (BNS Section",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 139.",
+      "description": "? Punishes kidnapping or obtaining custody of a minor and then using them \nfor\nbegging.\nIt\nspecifically\nadds\nsevere\npenalties\nfor\n\"maiming\"\n(amputating\nor\ninjuring)\nthe\nchild\nto\nmake\nthem\nmore\n\"effective\"\nat\nbegging.",
+      "protection_orders": "? Immediate rescue and placement in Child Care Institutions; \nmedical\ntreatment\nfor\ninjuries.",
+      "filing_process": [
+        "Report seeing a child begging, especially if injured/maimed.",
+        "Police/Anti-Human Trafficking Unit (AHTU) conducts raids.",
+        "Medical examination to determine if injuries are fresh or inflicted.",
+        "Investigation into the \"begging ring\" or gang leader."
+      ],
+      "punishments": "● For kidnapping/using for begging: Imprisonment up to 10 years and fine. ● For maiming: Imprisonment for life, and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Laxmi v. Union of India (Contextual Application) ● Background: While primarily about acid attacks, the court discussed the brutal maiming",
+          "background": "",
+          "action_taken": "Directives to police to treat maimed beggars as victims of organized crime.",
+          "court_order": "Strict implementation of laws preventing the exploitation of children.",
+          "outcome": "Increased vigilance against begging cartels."
+        },
+        {
+          "case_number": 2,
+          "case_name": "State v. Begging Cartel ● Background: Police busted a gang that kidnapped newborns and blinded them. ● Action Taken: Charged under the maiming section (formerly IPC 363A). ● Court Order: Treated as one of the most heinous crimes; life imprisonment awarded. ● Outcome: Deterrence against organized begging rings.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police, NGOs, or concerned citizens. \n__PAGE_44__"
+    },
+    {
+      "law_number": 44,
+      "title": "Kidnapping or abducting in order to murder or for ransom, etc. (BNS",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 140.",
+      "description": "? An aggravated form of kidnapping/abduction where the intent is to murder \nthe\nvictim,\nput\nthem\nin\ndanger\nof\nbeing\nmurdered,\nor\ndemand\na\nransom\nfor\ntheir\nrelease.",
+      "protection_orders": "? Witness protection; surveillance orders; freezing of bank \naccounts\n(ransom\ntrail).",
+      "filing_process": [
+        "Immediate reporting (life-threatening situation).",
+        "Police usually form a Special Task Force (STF).",
+        "Call tracing and negotiation tactics used by experts.",
+        "Rescue operation."
+      ],
+      "punishments": "Death, or imprisonment for life, and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State of West Bengal v. Mir Mohammad Omar ● Background: Victim was abducted and later found murdered. ● Action Taken: Accused convicted only for abduction as no eyewitness to murder. ● Court Order: SC ruled that if abduction is proved and the victim is found dead, the",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Convicted for murder based on the abduction charge."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Malli v. State of Tamil Nadu ● Background: A boy was kidnapped for ransom and killed when police were alerted. ● Action Taken: Case treated as \"Rarest of Rare.\" ● Court Order: The cold-blooded killing of a helpless child for money warrants the highest",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Death penalty or life imprisonment is standard for kidnapping-cum-murder."
+        }
+      ],
+      "who_can_file": "? Family members, police. \n__PAGE_45__"
+    },
+    {
+      "law_number": 45,
+      "title": "Importation of girl or boy from foreign country (BNS Section 141) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 141.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 141.",
+      "description": "? Punishes the importation of any girl or boy (under 18) from a foreign \ncountry\ninto\nIndia\nwith\nthe\nintent\nthat\nthey\nmay\nbe\nforced\nor\nseduced\nto\nillicit\nintercourse.",
+      "protection_orders": "? Repatriation orders; safe custody with embassy involvement.",
+      "filing_process": [
+        "Intelligence regarding human trafficking across borders.",
+        "Interception at airports or border checkpoints.",
+        "Verification of age and nationality.",
+        "Case filed under BNS 141 and Foreigners Act."
+      ],
+      "punishments": "Imprisonment for a term which may extend to 10 years, and a fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State v. Cross-Border Trafficking ● Background: Girls brought from Nepal/Bangladesh on false promises of marriage. ● Action Taken: Raids on brothels revealed foreign minors. ● Court Order: Ruled that \"importation\" is complete the moment they cross the Indian",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Used to prosecute traffickers bringing victims from neighboring countries."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Emigration Check Cases ● Background: Minors using fake passports brought in for domestic servitude/exploitation. ● Action Taken: Immigration officers flagged discrepancies. ● Court Order: Strict liability on agents importing minors. ● Outcome: Protects foreign minors from exploitation within India.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police, Immigration Officers, NGOs."
+    },
+    {
+      "law_number": 46,
+      "title": "Wrongfully concealing or keeping in confinement, kidnapped or",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 142.",
+      "description": "? Punishes anyone who, knowing that a person has been kidnapped or \nabducted,\nwrongfully\nconceals\nor\nkeeps\nthat\nperson\nin\nconfinement.\nThis\ntargets\naccomplices\nwho\nhide\nthe\nvictim.",
+      "protection_orders": "? Search warrants for premises suspected of hiding victims.",
+      "filing_process": [
+        "Police investigation leads to a location where the victim is hidden.",
+        "The owner/occupant claims ignorance.",
+        "Police prove \"knowledge\" of the kidnapping.",
+        "Charged equally as the kidnapper."
+      ],
+      "punishments": "Punishment in the same manner as if the person had kidnapped or abducted \nthe\nvictim\n(same\nterm).",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "State v. Safe House Owners ● Background: Gangs used rented apartments to hold ransom victims. ● Action Taken: Landlords who knew but didn't report were charged. ● Court Order: Assisting in confinement makes one a partner in the crime. ● Outcome: Deterrence for those providing logistical support to kidnappers.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        },
+        {
+          "case_number": 2,
+          "case_name": "Haryana Rescue Cases ● Background: Abducted brides kept in homes of \"husbands.\" ● Action Taken: Family members keeping watch over the woman charged under this",
+          "background": "",
+          "action_taken": "",
+          "court_order": "\"Confinement\" includes restricting liberty within a house.",
+          "outcome": "Entire families prosecuted for hiding abducted women."
+        }
+      ],
+      "who_can_file": "? Police or the victim."
+    },
+    {
+      "law_number": 47,
+      "title": "Trafficking of person (BNS Section 143) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 143.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 143. \n__PAGE_47__",
+      "description": "? A comprehensive law criminalizing the recruitment, transportation, \ntransfer,\nharboring,\nor\nreceipt\nof\npersons\nby\nforce,\nfraud,\nor\ncoercion\nfor\nexploitation\n(sexual,\nphysical,\nslavery,\nor\norgan\nremoval).",
+      "protection_orders": "? Victim compensation; rehabilitation schemes; witness \nprotection;\nsealing\nof\ntrafficking\nhubs.",
+      "filing_process": [
+        "Tip-off to AHTU or Police.",
+        "Raid and rescue operation.",
+        "Statements recorded to establish the \"chain\" of traffickers (recruiter -> transporter -> buyer).",
+        "Application of BNS 143 (very stringent)."
+      ],
+      "punishments": "● Trafficking 1 person: 7 to 10 years imprisonment. ● Trafficking more than 1 person: 10 years to Life. ● Trafficking a child: 10 years to Life (statutory minimum).",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Tom v. State of Kerala ● Background: Police officer accused of trafficking women. ● Action Taken: High Court analyzed the definition of trafficking post-2013 amendment",
+          "background": "",
+          "action_taken": "",
+          "court_order": "Clarified that \"exploitation\" is the key purpose; money exchange isn't strictly necessary if exploitation intent exists.",
+          "outcome": "Broadened scope to catch all facilitators."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Bachpan Bachao Andolan Cases ● Background: Children trafficked for labor in factories. ● Action Taken: Employers and agents charged with trafficking. ● Court Order: Ruled that forced labor constitutes trafficking. ● Outcome: Linked labor exploitation directly to human trafficking laws.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police, Victims, NGOs."
+    },
+    {
+      "law_number": 48,
+      "title": "Exploitation of a trafficked person (BNS Section 144) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 144.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 144. \n__PAGE_48__",
+      "description": "? Punishes the person who uses the services of a trafficked person (e.g., a \ncustomer\nin\na\nbrothel\nor\nan\nemployer\nof\nforced\nlabor)\neven\nif\nthey\ndid\nnot\ntraffic\nthe\nvictim\nthemselves.",
+      "protection_orders": "? Arrest of the exploiter; compensation from the exploiter to the \nvictim.",
+      "filing_process": [
+        "During a raid, persons found exploiting the victim (customers/employers) are detained.",
+        "Police prove the person reasonably knew the victim was trafficked.",
+        "Charged separately from the trafficker."
+      ],
+      "punishments": "● Using a trafficked child: Rigorous imprisonment for 5 to 7 years and fine. ● Using a trafficked adult: Imprisonment for 3 to 5 years and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Public Interest Litigations (General) ● Background: Need to punish the \"demand\" side of trafficking. ● Action Taken: Law amended to criminalize the user/customer. ● Court Order: If a person knowingly exploits a trafficked victim, they are liable. ● Outcome: Customers can no longer claim they \"didn't know\" if circumstances were",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        },
+        {
+          "case_number": 2,
+          "case_name": "Factory Raids ● Background: Factory owners employing children supplied by agents. ● Action Taken: Owners charged under BNS 144 (IPC 370A). ● Court Order: Employer is liable for exploitation of trafficked labor. ● Outcome: Holds businesses accountable for their supply chains.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police."
+    },
+    {
+      "law_number": 49,
+      "title": "Habitual dealing in slaves (BNS Section 145) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 145.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 145. \n__PAGE_49__",
+      "description": "? Punishes anyone who habitually imports, exports, removes, buys, sells, \nor\ntraffics\nin\nslaves.\nIt\ntargets\nprofessional\nslave\ntraders.",
+      "protection_orders": "? Asset forfeiture; preventive detention under security laws.",
+      "filing_process": [
+        "Evidence collected showing a \"habitual\" pattern (repeat offenses).",
+        "Proof of treating humans as property (slavery).",
+        "High-level investigation into organized crime syndicates."
+      ],
+      "punishments": "Imprisonment for life, or imprisonment for a term not exceeding 10 years, and \na\nfine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Historical Context/Bonded Labor ● Background: Use of this section for generational bonded labor where people are",
+          "background": "",
+          "action_taken": "Courts apply this for systemic slavery.",
+          "court_order": "\"Slavery\" includes conditions where absolute power is exercised over the victim.",
+          "outcome": "Used for the most severe forms of human ownership."
+        },
+        {
+          "case_number": 2,
+          "case_name": "International Syndicates ● Background: Groups moving people across continents as cargo. ● Action Taken: Interpol/CBI involvement. ● Court Order: Habitual offenders face life imprisonment. ● Outcome: Dismantling of slave trade networks.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? State Agencies, Police."
+    },
+    {
+      "law_number": 50,
+      "title": "Unlawful compulsory labour (BNS Section 146) 1. Title of Law with Section: Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 146.",
+      "full_title_with_sections": "Bharatiya Nyaya Sanhita (BNS), 2023. Key section: Section 146. \n__PAGE_50__",
+      "description": "? Punishes anyone who unlawfully compels any person to labor against \ntheir\nwill.\nThis\ncovers\nforced\nlabor,\nbonded\nlabor,\nand\nsituations\nwhere\nemployees\nare\nnot\nallowed\nto\nquit.",
+      "protection_orders": "? Release certificates (for bonded laborers); immediate payment \nof\nback\nwages.",
+      "filing_process": [
+        "Worker files complaint regarding inability to leave or non-payment causing force.",
+        "Labour Department or Police inspect the site.",
+        "Statements recorded confirming lack of consent.",
+        "FIR registered."
+      ],
+      "punishments": "Imprisonment of either description for a term which may extend to 1 year, or \nwith\nfine,\nor\nboth.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "People’s Union for Democratic Rights v. Union of India (Asiad Workers",
+          "background": "Workers paid less than minimum wage were considered \"forced labor.\"",
+          "action_taken": "SC defined the scope of \"force.\"",
+          "court_order": "\"Force\" isn't just physical; economic compulsion (work or starve) is also forced labor.",
+          "outcome": "Paying less than minimum wage constitutes forced labor."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Bandhua Mukti Morcha v. Union of India ● Background: Stone quarry workers held in debt bondage. ● Action Taken: SC issued extensive guidelines for identification and release. ● Court Order: Compelling work to pay off debt is unlawful compulsory labor. ● Outcome: Landmark judgment for bonded labor abolition.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? The worker, Labour Unions, NGOs."
+    },
+    {
+      "law_number": 51,
+      "title": "Dowry Prohibition Act, 1961 1. Title of Law with Section: The Dowry Prohibition Act, 1961. Key sections: Section 3",
+      "full_title_with_sections": "The Dowry Prohibition Act, 1961. Key sections: Section 3 \n(Penalty\nfor\ngiving/taking),\nSection\n4\n(Penalty\nfor\ndemanding).\n__PAGE_51__",
+      "description": "? Prohibits the giving, taking, or demanding of dowry (property or valuable \nsecurity)\nin\nconnection\nwith\na\nmarriage,\neither\ndirectly\nor\nindirectly.",
+      "protection_orders": "? Appointment of Dowry Prohibition Officers to ensure \ncompliance;\norders\nto\nreturn\ndowry\nto\nthe\nbride\n(it\nmust\nbe\ntransferred\nto\nher\nwithin\n3\nmonths).",
+      "filing_process": [
+        "File a complaint with the Dowry Prohibition Officer or at the nearest police station.",
+        "A list of presents exchanged during marriage should be maintained as evidence (as per rules).",
+        "Police investigate the demand or exchange.",
+        "Cognizance can be taken by a Metropolitan Magistrate or Magistrate of the First Class."
+      ],
+      "punishments": "● Giving/Taking Dowry: Imprisonment for not less than 5 years and fine of ₹15,000 or the \nvalue\nof\ndowry\n(whichever\nis\nhigher).\n● Demanding Dowry: Imprisonment for not less than 6 months but extending to 2 years \nand\nfine\nup\nto\n₹10,000.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Reema Aggarwal v. Anupam ● Background: The husband argued that since the marriage was invalid (due to bigamy),",
+          "background": "",
+          "action_taken": "Supreme Court interpreted the definition of \"dowry\" broadly.",
+          "court_order": "Ruled that \"dowry\" demands are punishable even if the validity of the marriage is in question.",
+          "outcome": "Prevented loopholes where men could escape liability by claiming the marriage was fake."
+        },
+        {
+          "case_number": 2,
+          "case_name": "S. Gopal Reddy v. State of Andhra Pradesh ● Background: Accused demanded dowry before the marriage, but the marriage never",
+          "background": "",
+          "action_taken": "Defense argued that without a marriage, there is no \"dowry.\"",
+          "court_order": "Court held that the \"demand\" itself is the offense, regardless of whether the marriage occurs.",
+          "outcome": "Established that pre-marriage demands are punishable."
+        }
+      ],
+      "who_can_file": "? The victim, her parents/relatives, or a recognized Welfare \nInstitution/Organization."
+    },
+    {
+      "law_number": 52,
+      "title": "Indecent Representation of Women (Prohibition) Act, 1986 1. Title of Law with Section: Indecent Representation of Women (Prohibition) Act, 1986. Key",
+      "full_title_with_sections": "Indecent Representation of Women (Prohibition) Act, 1986. Key \nsections:\nSection\n3,\n4,\n6.\n__PAGE_52__",
+      "description": "? Prohibits the depiction of the figure of a woman, her form, or body parts in \nany\nmanner\nwhich\nis\nindecent,\nderogatory,\nor\nlikely\nto\ndeprave/corrupt\npublic\nmorality\n(in\nads,\npublications,\nwritings,\netc.).",
+      "protection_orders": "? Search and seizure of the indecent material by Gazetted \nOfficers;\ninjunctions\nagainst\npublication.",
+      "filing_process": [
+        "Report the material (advertisement, book, poster) to the local police or a Gazetted Officer authorized by the State.",
+        "Officer enters and searches premises to seize evidence.",
+        "Complaint filed in court."
+      ],
+      "punishments": "● First Conviction: Imprisonment up to 2 years and fine up to ₹2,000. ● Second Conviction: Imprisonment from 6 months to 5 years and fine up to ₹1,00,000.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Aveek Sarkar v. State of West Bengal ● Background: A magazine published a photo of a tennis star (Boris Becker) posing nude",
+          "background": "",
+          "action_taken": "Charged with obscenity and indecent representation.",
+          "court_order": "SC applied the \"Community Standards Test.\" The photo was meant to portray intimacy, not vulgarity.",
+          "outcome": "Acquitted; established that context matters—nudity is not always \"indecent.\""
+        },
+        {
+          "case_number": 2,
+          "case_name": "Chandra Raja v. State ● Background: Calendars depicting women in suggestive poses. ● Action Taken: Seized by police. ● Court Order: Court ruled that images catering solely to \"prurient interests\" (lust) fall",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Calendars were banned and destroyed."
+        }
+      ],
+      "who_can_file": "? Any person, police officer, or Gazetted Officer."
+    },
+    {
+      "law_number": 53,
+      "title": "Commission of Sati (Prevention) Act, 1987 1. Title of Law with Section: The Commission of Sati (Prevention) Act, 1987. Key sections:",
+      "full_title_with_sections": "The Commission of Sati (Prevention) Act, 1987. Key sections: \nSection\n3,\n4,\n5.\n__PAGE_53__",
+      "description": "? Prohibits the practice of Sati (burning or burying alive of a widow along \nwith\nher\ndeceased\nhusband),\nand\nits\nglorification\n(ceremonies,\ntemples,\nprocessions).",
+      "protection_orders": "? Collector/District Magistrate can issue prohibitory orders to \nstop\nSati\nceremonies\nor\nglorification;\nremoval\nof\ntemples\nconstructed\nfor\nSati.",
+      "filing_process": [
+        "Inform Police or District Magistrate immediately upon hearing of a planned Sati or glorification event.",
+        "Police must prevent the act (it is treated as suicide/murder).",
+        "Special Courts handle these trials."
+      ],
+      "punishments": "● Attempt to commit Sati: Imprisonment up to 1 year and fine (treated as a victim \nneeding\nhelp,\nbut\npunishable\nto\nprevent\nact).\n● Abetment (forcing/encouraging): Death penalty or life imprisonment. ● Glorification: Imprisonment from 1 to 7 years and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Roop Kanwar Case (Precursor) ● Background: A young widow was burnt alive on her husband's pyre in Rajasthan",
+          "background": "",
+          "action_taken": "Massive national outrage led to the passing of this specific central legislation.",
+          "court_order": "The trial highlighted the difficulty of proving \"force\" vs \"voluntary\" participation due to social pressure.",
+          "outcome": "The Act was designed to treat any Sati as a crime, removing the defense of \"voluntary\" religious practice."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Prevention of Glorification Cases ● Background: Local communities organizing \"Chunri Mahotsav\" to honor Sati sites. ● Action Taken: District Magistrates issued orders banning such gatherings. ● Outcome: Courts uphold these bans to prevent the normalization or glorification of the",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Police or any person aware of the offense."
+    },
+    {
+      "law_number": 54,
+      "title": "Muslim Women (Protection of Rights on Marriage) Act, 2019 1. Title of Law with Section: Muslim Women (Protection of Rights on Marriage) Act, 2019. Key",
+      "full_title_with_sections": "Muslim Women (Protection of Rights on Marriage) Act, 2019. Key \nsections:\nSection\n3,\n4.\n__PAGE_54__",
+      "description": "? Declares the practice of Talaq-e-Biddat (Instant Triple Talaq) void and \nillegal.\nIt\ncriminalizes\nthe\nact\nof\na\nMuslim\nhusband\npronouncing\n\"Talaq\"\nthree\ntimes\nin\none\nsitting\nto\ndivorce\nhis\nwife.",
+      "protection_orders": "? Subsistence allowance for the wife and dependent children; \ncustody\nof\nminor\nchildren\ngranted\nto\nthe\nmother.",
+      "filing_process": [
+        "Wife (or her blood relative/relative by marriage) must file an FIR.",
+        "Police investigate (Cognizable offense if information comes from the wife/relative).",
+        "Magistrate can grant bail to the husband only after hearing the wife."
+      ],
+      "punishments": "Imprisonment for a term which may extend to 3 years, and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Shayara Bano v. Union of India ● Background: Shayara Bano was divorced via letter with \"Talaq\" written three times. ● Action Taken: She challenged the constitutionality of the practice in the Supreme Court. ● Court Order: SC declared Instant Triple Talaq unconstitutional and violative of Article 14",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Paved the way for the 2019 Act to criminalize the practice."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Post-2019 Act Arrests ● Background: Cases where husbands sent Triple Talaq via WhatsApp. ● Action Taken: FIRs registered under the new Act. ● Court Order: Courts have denied anticipatory bail in many cases to ensure the deterrent",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Digital pronouncements are also covered and punishable."
+        }
+      ],
+      "who_can_file": "? The married Muslim woman upon whom Talaq is pronounced, or her blood \nrelative/relative\nby\nmarriage."
+    },
+    {
+      "law_number": 55,
+      "title": "Maternity Benefit Act, 1961 (Amendment 2017) 1. Title of Law with Section: Maternity Benefit Act, 1961 (Amended 2017). Key sections:",
+      "full_title_with_sections": "Maternity Benefit Act, 1961 (Amended 2017). Key sections: \nSection\n5,\n11A.\n__PAGE_55__",
+      "description": "? Regulates the employment of women in certain establishments for certain \nperiods\nbefore\nand\nafter\nchildbirth\nand\nprovides\nfor\nmaternity\nbenefit\n(paid\nleave).",
+      "protection_orders": "? Protection against dismissal during pregnancy; right to return \nto\nthe\nsame\nposition.",
+      "filing_process": [
+        "Give written notice to the employer regarding the date of delivery/leave.",
+        "If benefit is denied, appeal to the Competent Authority (Labour Commissioner).",
+        "Inspector can inquire and order payment."
+      ],
+      "punishments": "Employer can be punished with imprisonment (3 months to 1 year) and fine \nfor\nnon-compliance.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Municipal Corporation of Delhi v. Female Workers ● Background: Daily wage workers were denied maternity benefits. ● Action Taken: Workers Union approached the Supreme Court. ● Court Order: SC ruled that maternity benefit is a fundamental aspect of the dignity of a",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Extended benefits to daily wage/contractual employees."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Accenture (India) Cases (Work from Home) ● Background: Disputes regarding the \"Work from Home\" provision in the 2017",
+          "background": "",
+          "action_taken": "Clarifications sought on whether it's a right.",
+          "court_order": "While not absolute, employers are encouraged to facilitate WFH after the 26 weeks if the nature of work permits.",
+          "outcome": "Modernized the application of the law for corporate sectors."
+        }
+      ],
+      "who_can_file": "? Any woman employee (working in an establishment with 10+ employees)."
+    },
+    {
+      "law_number": 56,
+      "title": "Medical Termination of Pregnancy (MTP) Act, 1971 1. Title of Law with Section: Medical Termination of Pregnancy Act, 1971 (Amended 2021).",
+      "full_title_with_sections": "Medical Termination of Pregnancy Act, 1971 (Amended 2021). \nKey\nsections:\nSection\n3,\n4.\n__PAGE_56__",
+      "description": "? Legalizes abortion in India under specific conditions (contraceptive failure, \ndanger\nto\nlife,\nfetal\nabnormality,\nrape)\nup\nto\n24\nweeks\n(and\nbeyond\nfor\nfetal\nabnormalities).",
+      "protection_orders": "? Strict confidentiality of the woman's identity (Section 5A); \nprotection\nfor\ndoctors\nacting\nin\ngood\nfaith.",
+      "filing_process": [
+        "Visit a registered Medical Practitioner (RMP).",
+        "Up to 20 weeks: Opinion of 1 RMP required.",
+        "20 to 24 weeks: Opinion of 2 RMPs (for special categories like rape survivors, minors).",
+        "Beyond 24 weeks: Medical Board decision (for substantial fetal abnormalities)."
+      ],
+      "punishments": "● Termination by non-medical person: 2 to 7 years imprisonment. ● Revealing woman’s identity: Imprisonment up to 1 year.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Suchita Srivastava v. Chandigarh Administration ● Background: State wanted to abort the pregnancy of a mentally retarded woman",
+          "background": "",
+          "action_taken": "SC analyzed \"consent.\"",
+          "court_order": "Ruled that a woman’s right to make reproductive choices is part of \"Personal Liberty\" (Article 21).",
+          "outcome": "Consent of the woman is paramount, even if mentally challenged (unless she cannot understand consequences)."
+        },
+        {
+          "case_number": 2,
+          "case_name": "X v. Principal Secretary, Health and Family Welfare (2022) ● Background: Unmarried woman denied abortion at 24 weeks (citing law only said",
+          "background": "",
+          "action_taken": "SC interpreted the MTP rules.",
+          "court_order": "Ruled that \"marital status\" cannot be a ground to deny abortion. Replaced \"husband\" with \"partner\" in interpretation.",
+          "outcome": "Unmarried women gained equal rights to abortion up to 24 weeks."
+        }
+      ],
+      "who_can_file": "? The pregnant woman (or guardian if minor/mentally ill)."
+    },
+    {
+      "law_number": 57,
+      "title": "Pre-Natal Diagnostic Techniques (PCPNDT) Act, 1994 1. Title of Law with Section: Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994.",
+      "full_title_with_sections": "Pre-Conception and Pre-Natal Diagnostic Techniques Act, 1994. \nKey\nsections:\nSection\n6,\n23.\n__PAGE_57__",
+      "description": "? Bans the use of technology (Ultrasound, etc.) for sex selection or sex \ndetermination\nbefore\nor\nafter\nconception.\nAimed\nat\nstopping\nfemale\nfoeticide.",
+      "protection_orders": "? Suspension/Cancellation of the medical license of the \ndoctor/clinic;\nsealing\nof\nultrasound\nmachines.",
+      "filing_process": [
+        "Complaint to the \"Appropriate Authority\" (District Medical Officer).",
+        "Authority investigates and conducts \"Decoy Operations\" to catch doctors.",
+        "Complaint filed in court by the Authority (Police usually cannot file FIR directly for this; they assist the Authority)."
+      ],
+      "punishments": "● Doctor/Owner: Imprisonment up to 3 years and fine (First offense). ● Parent/Husband seeking sex selection: Imprisonment up to 3 years and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Voluntary Health Association of Punjab v. Union of India ● Background: Declining sex ratio in India due to poor implementation of the Act. ● Action Taken: SC monitored the implementation. ● Court Order: Issued directions for proper record keeping (Form F) by clinics. Incomplete",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Tightened the documentation requirements for all ultrasound clinics."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Maharashtra Decoy Cases ● Background: Activists sent pregnant decoys to clinics offering \"boy or girl\" testing. ● Action Taken: Doctors caught on camera accepting money for sex determination. ● Court Order: Courts accepted decoy evidence and convicted doctors. ● Outcome: Validated the \"sting operation\" method for enforcement.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Appropriate Authority or any person (after giving notice to the Authority)."
+    },
+    {
+      "law_number": 58,
+      "title": "Surrogacy (Regulation) Act, 2021 1. Title of Law with Section: Surrogacy (Regulation) Act, 2021. Key sections: Section 4, 38.",
+      "full_title_with_sections": "Surrogacy (Regulation) Act, 2021. Key sections: Section 4, 38. \n__PAGE_58__",
+      "description": "? Bans commercial surrogacy (selling surrogacy services). Allows only \n\"Altruistic\nSurrogacy\"\nfor\nintending\ncouples\nwho\nhave\na\nmedical\nindication\nfor\nit.",
+      "protection_orders": "? Insurance coverage for the surrogate mother (36 months); \ncertificates\nof\nessentiality\nand\neligibility\nrequired.",
+      "filing_process": [
+        "Intending couple applies to the National/State Surrogacy Board.",
+        "Prove medical necessity (infertility) and obtain \"Certificate of Essentiality.\"",
+        "Surrogate mother must be a close relative and married (with her own child)."
+      ],
+      "punishments": "● Commercial Surrogacy/Exploitation: Imprisonment up to 10 years and fine up to ₹10 \nLakhs.\n● Abandoning the surrogate child: Imprisonment up to 10 years.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Baby Manji Yamada v. Union of India (Pre-Act Context) ● Background: Japanese couple commissioned surrogacy in India; divorced before birth.",
+          "background": "",
+          "action_taken": "SC had to intervene regarding custody/citizenship.",
+          "court_order": "",
+          "outcome": "This case (and the chaos of \"rent-a-womb\" industry) led to the demand for the 2021 strict regulation banning commercial trade."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Recent High Court Petitions (2023) ● Background: Couples challenging the \"genetic link\" requirement or age limits. ● Action Taken: Courts are currently interpreting the \"welfare of the child\" vs \"regulation.\" ● Court Order: Courts typically uphold the ban on commercialization to prevent",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Strict adherence to altruistic (non-monetary) models."
+        }
+      ],
+      "who_can_file": "? Appropriate Authority established under the Act."
+    },
+    {
+      "law_number": 59,
+      "title": "HIV & AIDS (Prevention & Control) Act, 2017 1. Title of Law with Section: Human Immunodeficiency Virus and Acquired Immune Deficiency",
+      "full_title_with_sections": "Human Immunodeficiency Virus and Acquired Immune Deficiency \nSyndrome\n(Prevention\nand\nControl)\nAct,",
+      "description": "? Prohibits discrimination against HIV-positive persons in employment, \neducation,\nand\nhealthcare.\nMandates\n\"Informed\nConsent\"\nfor\nHIV\ntesting.",
+      "protection_orders": "? Appointment of an Ombudsman to handle complaints; orders \nto\nsuppress\nidentity\nin\ncourt\nproceedings\n(pseudonyms).",
+      "filing_process": [
+        "File a complaint with the state-appointed Ombudsman.",
+        "Ombudsman inquires and passes orders within 30 days.",
+        "For criminal acts (hate speech), file FIR."
+      ],
+      "punishments": "● Breach of confidentiality/discrimination: Imprisonment up to 2 years and fine. ● Advocating hatred against HIV+ persons: Imprisonment up to 2 years.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Mr. X v. Hospital Z ● Background: A hospital disclosed a patient's HIV status to his fiancée, leading to",
+          "background": "",
+          "action_taken": "Patient sued for breach of privacy.",
+          "court_order": "SC ruled that while privacy is important, the \"Right to Health\" of the fiancée (to not be infected) took precedence.",
+          "outcome": "Established that disclosure is permitted only to partners at risk, otherwise strict confidentiality applies."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Employment Discrimination Cases ● Background: Employees fired solely for testing HIV positive. ● Action Taken: Challenged under the Act. ● Court Order: Courts reinstated employees, citing that HIV status does not affect ability",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Protected livelihood of HIV+ individuals."
+        }
+      ],
+      "who_can_file": "? The HIV-positive person, their representative, or any person facing \ndiscrimination."
+    },
+    {
+      "law_number": 60,
+      "title": "Juvenile Justice (Care & Protection of Children) Act, 2015 1. Title of Law with Section: Juvenile Justice (Care and Protection of Children) Act, 2015. Key",
+      "full_title_with_sections": "Juvenile Justice (Care and Protection of Children) Act, 2015. Key \nsections:\nSection\n15,\n74,\n75.\n__PAGE_60__",
+      "description": "? A consolidated law for children in conflict with the law (juveniles accused \nof\ncrimes)\nand\nchildren\nin\nneed\nof\ncare\nand\nprotection\n(orphans,\nabandoned).\nIt\nfocuses\non\nrehabilitation\nrather\nthan\npunishment.",
+      "protection_orders": "? Placement in Observation Homes (for offenders) or Children's \nHomes\n(for\ncare);\nFoster\nCare\norders;\nAdoption\norders;\norders\nto\nwithhold\nidentity\nof\nthe\nchild.",
+      "filing_process": [
+        "For Offense: Police apprehend the child (Special Juvenile Police Unit). Child must not be handcuffed or jailed.",
+        "Produced before the Juvenile Justice Board (JJB) within 24 hours.",
+        "For Care: Child found abandoned/abused produced before Child Welfare Committee (CWC).",
+        "Inquiry conducted regarding age and circumstances."
+      ],
+      "punishments": "● For Juvenile Offenders: No jail/death penalty. Counseling, community service, or stay \nin\na\n\"Special\nHome\"\nfor\nup\nto\n3\nyears.\n● For Cruelty to Child (Sec 75): Imprisonment up to 3 years and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Shilpa Mittal v. State of NCT of Delhi ● Background: Issue regarding the trial of juveniles aged 16-18 involved in \"Heinous",
+          "background": "",
+          "action_taken": "Court interpreted the 2015 Act's provision (Section 15) allowing adults trials for older teens.",
+          "court_order": "SC clarified that a \"Heinous Offense\" must have a minimum sentence of 7 years excluding undefined statutes.",
+          "outcome": "Clarified which teens can be tried as adults."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Sample Case (Nirbhaya Aftermath) ● Background: One accused was a juvenile (months under 18) during the brutal gang",
+          "background": "",
+          "action_taken": "He was tried under the old 2000 Act and released after 3 years.",
+          "court_order": "",
+          "outcome": "Public outrage led to the 2015 Act, allowing those aged 16-18 to be tried as adults for heinous crimes if the JJB assesses them as having an adult mindset."
+        }
+      ],
+      "who_can_file": "? Police, Social Workers, Parents, or any concerned citizen."
+    },
+    {
+      "law_number": 61,
+      "title": "Prohibition of Child Marriage Act, 2006",
+      "full_title_with_sections": "The Prohibition of Child Marriage Act, 2006. Key sections: \nSection\n3,\n9,\n10,\n11.\n__PAGE_61__",
+      "description": "? Prohibits the solemnization of marriage where the groom is under 21 or \nthe\nbride\nis\nunder",
+      "protection_orders": "? Injunctions prohibiting a planned child marriage (Section 13); \ncustody\norders\nfor\nchildren\nborn\nof\nsuch\nmarriages;\nmaintenance\norders\nfor\nthe\ngirl.",
+      "filing_process": [
+        "Report planned marriage to the Child Marriage Prohibition Officer (CMPO), Police, or District Magistrate.",
+        "CMPO/Police investigates and stops the ceremony.",
+        "If marriage already occurred, the minor can file a petition to annul it (voidable) within 2 years of reaching adulthood."
+      ],
+      "punishments": "● Adult male marrying a child: Rigorous imprisonment up to 2 years and fine up to ₹1 \nLakh.\n● Performing/Abetting the marriage: Rigorous imprisonment up to 2 years and fine.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Independent Thought v. Union of India ● Background: Challenged the marital rape exception for child brides. ● Action Taken: Petitioners argued that the Prohibition of Child Marriage Act conflicts with",
+          "background": "",
+          "action_taken": "",
+          "court_order": "Supreme Court ruled that sex with a wife under 18 is rape, harmonizing it with the POCSO Act and Child Marriage Act.",
+          "outcome": "Strengthened the protection of child brides against sexual abuse."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Lajja Devi v. State ● Background: A minor girl was kidnapped and married off. ● Action Taken: Court had to decide if the marriage was valid. ● Court Order: Ruled that a marriage involving a kidnapped minor is void ab initio (invalid",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Immediate nullity of forced child marriages."
+        }
+      ],
+      "who_can_file": "? The minor contracting party, CMPO, or any person."
+    },
+    {
+      "law_number": 62,
+      "title": "Immoral Traffic (Prevention) Act, 1956 1. Title of Law with Section: Immoral Traffic (Prevention) Act, 1956 (ITPA). Key sections:",
+      "full_title_with_sections": "Immoral Traffic (Prevention) Act, 1956 (ITPA). Key sections: \nSection\n3,\n4,\n5.\n__PAGE_62__",
+      "description": "? Aimed at stopping the trafficking of persons for prostitution. It criminalizes \nrunning\nbrothels,\nliving\non\nthe\nearnings\nof\nprostitution,\nand\nprocuring/detaining\npersons\nfor\nprostitution.",
+      "protection_orders": "? Rescue of victims; closure/eviction of brothels; placement of \nvictims\nin\ncorrective\ninstitutions\nor\nshelter\nhomes.",
+      "filing_process": [
+        "Information given to Special Police Officer.",
+        "Raid conducted without a warrant (under specific conditions).",
+        "Victim rescued and produced before Magistrate.",
+        "Medical examination and age verification."
+      ],
+      "punishments": "● Keeping a Brothel: 1 to 3 years imprisonment (First offense). ● Living on earnings of prostitution: Imprisonment up to 2 years. ● Procuring/Inducing: 3 to 7 years rigorous imprisonment.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Budhadev Karmaskar v. State of West Bengal ● Background: A sex worker was brutally murdered; the case evolved into a rights issue. ● Action Taken: Supreme Court took suo motu cognizance. ● Court Order: Ruled that sex workers also have a \"Right to Life\" (Article 21) and dignity.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Shifted focus from criminalizing the victim to rehabilitation."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Gaurav Jain v. Union of India ● Background: Petition regarding the children of sex workers living in brothels. ● Action Taken: Court examined the environment of \"red light areas.\" ● Court Order: Directed the separation of children from the trade environment to prevent",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Established special juvenile justice protocols for these children."
+        }
+      ],
+      "who_can_file": "? Police, NGOs, or any person."
+    },
+    {
+      "law_number": 63,
+      "title": "Commissions for Protection of Child Rights Act, 2005 1. Title of Law with Section: The Commissions for Protection of Child Rights Act, 2005. Key",
+      "full_title_with_sections": "The Commissions for Protection of Child Rights Act, 2005. Key \nsections:\nSection\n3\n(NCPCR),\n13\n(Functions).\n__PAGE_63__",
+      "description": "? Establishes the National (NCPCR) and State (SCPCR) Commissions to \nprotect\nchild\nrights\nand\nensure\nlaws/policies\nconform\nto\nthe\nrights\nof\nchildren\n(as\nper\nUN\nConvention).",
+      "protection_orders": "? Recommendations to government for prosecution; guidelines \nto\nauthorities;\ninquiries\ninto\nviolations\nof\nchild\nrights.",
+      "filing_process": [
+        "Submit a complaint to NCPCR/SCPCR via post or online portal (e-BaalNidan).",
+        "Commission summons the violator/authorities.",
+        "Commission conducts an inquiry and recommends action."
+      ],
+      "punishments": "The Commission itself does not punish but recommends prosecution and \ndisciplinary\naction.\nIgnoring\nsummons\ncan\nlead\nto\nlegal\nconsequences\nunder\nIPC.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Exploitation in Reality Shows ● Background: Complaints regarding children crying/being humiliated on TV shows. ● Action Taken: NCPCR issued guidelines to production houses. ● Outcome: Regulated working hours and conditions for children in media.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        },
+        {
+          "case_number": 2,
+          "case_name": "School Fee Hike Cases ● Background: Parents complained to SCPCR regarding arbitrary fee hikes and",
+          "background": "",
+          "action_taken": "Commission inquired and directed schools to stop harassment.",
+          "court_order": "",
+          "outcome": "Protected the child's right to education without mental harassment."
+        }
+      ],
+      "who_can_file": "? Any child, parent, or concerned citizen."
+    },
+    {
+      "law_number": 64,
+      "title": "Orphanages and Other Charitable Homes (Supervision and Control) Act,",
+      "full_title_with_sections": "Orphanages and Other Charitable Homes (Supervision and \nControl)\nAct,",
+      "description": "? Regulates the activities of orphanages and charitable homes to ensuring \nminimum\nstandards\nof\ncare,\nhousing,\nand\nsanitation\nfor\nthe\ninmates\n(women\nand\nchildren).",
+      "protection_orders": "? Cancellation of license for non-compliance; orders to transfer \ninmates\nto\ncompliant\nhomes.",
+      "filing_process": [
+        "Homes must apply for a Certificate of Recognition from the Board of Control.",
+        "Inspections conducted by the Board.",
+        "If conditions are poor, a complaint can be filed with the District Magistrate/Board."
+      ],
+      "punishments": "● Running a home without a certificate: Imprisonment up to 6 months and fine. ● Contravention of the Act: Imprisonment up to 3 months.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Muzaffarpur Shelter Home Case (Reference) ● Background: Sexual abuse rampant in a state-funded shelter home. ● Action Taken: Highlighted the failure of \"Supervision and Control.\" ● Court Order: Supreme Court ordered a CBI probe and transfer of cases. ● Outcome: Led to stricter social audits and inspections under this Act and the JJ Act.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        },
+        {
+          "case_number": 2,
+          "case_name": "License Revocation Cases ● Background: Homes found overcrowding children in unhygienic conditions. ● Action Taken: Board revoked licenses under the Act. ● Outcome: Closure of substandard facilities.",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": ""
+        }
+      ],
+      "who_can_file": "? Board of Control, Social Welfare Department."
+    },
+    {
+      "law_number": 65,
+      "title": "Infant Milk Substitutes, Feeding Bottles and Infant Foods (Regulation of",
+      "full_title_with_sections": "The IMS Act, 1992 (Amended 2003). Key sections: Section 3, 4.",
+      "description": "? Prohibits the promotion and advertising of infant milk substitutes \n(formula),\nfeeding\nbottles,\nand\ninfant\nfoods\nto\nprotect\nand\npromote\nbreastfeeding.\n__PAGE_65__",
+      "protection_orders": "? Seizure and confiscation of advertised products; bans on \npromotional\nactivities\nby\nmedical\nrepresentatives.",
+      "filing_process": [
+        "Report illegal advertising (e.g., posters in hospitals, free samples) to the \"Authorized Officer\" (Civil Surgeon/Food Inspector).",
+        "Authorized Officer investigates.",
+        "Complaint filed in court (cognizable offense)."
+      ],
+      "punishments": "Imprisonment which may extend to 3 years, or with fine up to ₹5,000, or both.",
+      "case_examples": [
+        {
+          "case_number": 1,
+          "case_name": "Nestlé India Ltd. v. Union of India ● Background: Challenge to the restrictions on labeling and advertising. ● Action Taken: Company argued \"Freedom of Trade.\" ● Court Order: Court upheld the Act, prioritizing public health (breastfeeding benefits)",
+          "background": "",
+          "action_taken": "",
+          "court_order": "",
+          "outcome": "Strict labeling rules (e.g., \"Mother's milk is best for baby\") became mandatory."
+        },
+        {
+          "case_number": 2,
+          "case_name": "Hospital Promotion Cases ● Background: Companies sponsoring doctors or giving free formula samples in",
+          "background": "",
+          "action_taken": "NGOs (like BPNI) reported violations.",
+          "court_order": "",
+          "outcome": "Legal notices sent to companies; reduction in direct marketing within healthcare settings."
+        }
+      ],
+      "who_can_file": "? Authorized Officers (Food Inspectors), Registered Voluntary Organizations \n(NGOs).\n__PAGE_66__"
+    }
+  ]
+}
