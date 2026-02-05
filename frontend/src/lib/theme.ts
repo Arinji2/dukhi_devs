@@ -9,10 +9,10 @@ export const THEME = {
   "popover-foreground": "hsl(0 0% 98%)", // #fafafa
 
   primary: "hsl(210 67% 23%)", // #143c62
-  "primary-foreground": "hsl(222 36% 7%)", // #0c121a
+  "primary-foreground": "hsl(0 0% 98%)", // #fafafa
 
   secondary: "hsl(43 94% 63%)", // #fac547
-  "secondary-foreground": "hsl(0 0% 98%)", // #fafafa
+  "secondary-foreground": "hsl(222 36% 7%)", // #0c121a
 
   muted: "hsl(218 32% 14%)", // #182230
   "muted-foreground": "hsl(219 17% 63%)", // #969fab
