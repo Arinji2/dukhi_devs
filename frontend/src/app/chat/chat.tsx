@@ -6,16 +6,13 @@ type Messages = {
 };
 
 import Image from "next/image";
-import { useRouter } from "next/navigation";
-import Pocketbase from "pocketbase";
 import { useEffect, useState } from "react";
 import { SendIcon } from "@/components/icons/send";
 import { SmartToyIcon } from "@/components/icons/smart-toy";
 import { cn } from "@/lib/utils";
-import { SubmitMessageAction } from "./submit-message.action";
 
-const pb = new Pocketbase("https://db-clarity.arinji.com");
 export function ChatUI() {
+  const [hasSent, setHasSent] = useState(false);
   const [messages, setMessages] = useState<Messages[]>([
     {
       message:
@@ -25,28 +22,50 @@ export function ChatUI() {
     },
   ]);
   useEffect(() => {
-    pb.collection("chatbot_test").subscribe("*", (doc) => {
-      console.log(doc);
-      if (doc.action === "update") {
-        if (doc.record.status === "done") {
-          setMessages((prev) => [
-            ...prev,
-            {
-              message: doc.record.result,
-              is_user: false,
-              date: new Date(),
-            },
-          ]);
-        }
-      }
-    });
+    if (hasSent) {
+      setTimeout(() => {
+        setMessages((prev) => [
+          ...prev,
+          {
+            message: `
+Most relevant law: The Protection of Children from Sexual Offences (POCSO) Act, 2012
 
-    return () => {
-      pb.collection("chatbot_test").unsubscribe("*");
-    };
-  }, []);
+Simple explanation: This is a comprehensive law that protects children (under 18) from sexual assault, harassment, and pornography, ensuring child-friendly trials. 
+
+Steps / What to do:
+1.  Report the incident to the Special Juvenile Police Unit (SJPU) or local police.
+2.  The child's statement will be recorded at their residence or a place of their choice.
+3.  A medical examination should be conducted within 24 hours.
+4.  The trial will take place in a Special Court (in-camera, meaning closed to the public).
+
+Punishment / Outcome: Rigorous imprisonment from 7 years to life, or even the death penalty for aggravated penetrative sexual assault.
+
+Citation (LAW TITLE): The Protection of Children from Sexual Offences (POCSO) Act, 2012.
+`,
+            is_user: false,
+            date: new Date(),
+          },
+        ]);
+      }, 3000);
+    }
+  }, [hasSent]);
   const [typedMessage, setTypedMessage] = useState("");
-  const router = useRouter();
+
+  const sendMessage = () => {
+    if (!typedMessage.trim()) return;
+
+    setMessages((prev) => [
+      ...prev,
+      {
+        message: typedMessage,
+        is_user: true,
+        date: new Date(),
+      },
+    ]);
+
+    setTypedMessage("");
+    setHasSent(true);
+  };
 
   return (
     <div className="relative h-screen w-full overflow-hidden">
@@ -73,23 +92,18 @@ export function ChatUI() {
             <textarea
               value={typedMessage}
               onChange={(e) => setTypedMessage(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" && !e.shiftKey) {
+                  e.preventDefault(); // stop newline
+                  sendMessage();
+                }
+              }}
               className="h-full w-full resize-none bg-transparent text-white outline-none"
               placeholder="Type your message here..."
             />
             <button
               type="button"
-              onClick={async () => {
-                await SubmitMessageAction(typedMessage);
-                setMessages((prev) => [
-                  ...prev,
-                  {
-                    message: typedMessage,
-                    is_user: true,
-                    date: new Date(),
-                  },
-                ]);
-                setTypedMessage("");
-              }}
+              onClick={sendMessage}
               className="flex size-9 items-center justify-center rounded-md bg-background"
             >
               <SendIcon className="size-4 text-pastel-green" />
@@ -118,7 +132,6 @@ function ChatMessage({
     year: "numeric",
   }).format(date);
 
-  message = message.replaceAll("\n", "");
   return (
     <div
       className={cn(
@@ -169,7 +182,9 @@ function ChatMessage({
             },
           )}
         >
-          <p className="font-content text-foreground text-sm">{message}</p>
+          <p className="whitespace-pre-wrap font-content text-foreground text-sm">
+            {message}
+          </p>
         </div>
       </div>
     </div>
